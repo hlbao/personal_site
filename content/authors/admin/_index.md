@@ -1,77 +1,43 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Honglin Carson Bao
+role: PhD Candidate at NSF BEACON Center for the Study of Evolution in Action
+  and MSU CSE
+avatar_filename: wechatimg469.jpeg
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Multiagent Systems and Agent-based Models
+  - (Evolutionary) Game Theory
+  - Computational Social Sciences/Social Networks/Computational Communication
+  - NLP
+  - Science of Science
+  - and Complex Adaptive Systems.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/HonglinB
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=pSdfiCYAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/hlbao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: "NSF BEACON Center for the Study of Evolution in Action "
+    url: https://www3.beacon-center.org/
+  - name: MSU CSE
+    url: https://www.cse.msu.edu/
+education:
+  courses: []
+email: baohlcs@gmail.com
+superuser: true
 highlight_name: false
 ---
+I have a multidisciplinary education background in mathematics, computer science, and economics. Now I am a Ph.D. candidate at Michigan State University & NSF BEACON Center for the Study of Evolution in Action. I work closely with [Dr. Taiquan Peng](https://comartsci.msu.edu/our-people/taiquan-winson-peng) (Communication and Media Science), [Dr. Zachary Neal](https://www.zacharyneal.com/) (Psychology), and Koza Chair Professor [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/) (CSE).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I have fair interests in the computing realm and social/economic science realm. I am focusing on cutting-edge research in ***Multiagent Systems and Agent-based Models, (Evolutionary) Game Theory, Computational Social Sciences/Social Networks/Computational Communication, Science of Science, NLP, and Complex Adaptive Systems***. I worked on social theory-driven simulation to study the issues in the intersection of computing and sociology. Recently I have been drawn to data-driven computational social science and communication science. My goal is to produce impactful and novel research in these fields in academia.
