@@ -26,8 +26,6 @@ organizations:
     url: https://www3.beacon-center.org/
   - name: MSU
     url: https://www.cse.msu.edu/
-education:
-  courses: []
 email: baohlcs@gmail.com
 superuser: true
 highlight_name: false
