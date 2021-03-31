@@ -9,4 +9,4 @@ image:
   focal_point: ""
   preview_only: false
 ---
-How does innovation diffuse in a market? Can stable prices emerge from the local interactions among demander and supplier with technology updates based on von Neumann technology matrices?
+How does innovation diffuse in a market? Does innovation have a path? Can stable prices emerge from the local interactions among demanders and suppliers with technology updates and evolution, e.g., von Neumann technology matrices?
