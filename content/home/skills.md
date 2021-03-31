@@ -23,11 +23,11 @@ feature:
 - description: 100%
   icon: laptop-code
   icon_pack: fas
-  name: Simulation and Model
+  name: Simulation and Modeling
 - description: 80%
   icon: handshake
   icon_pack: fas
-  name: Social Networks
+  name: Social Network Analysis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
