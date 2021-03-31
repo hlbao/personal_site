@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Simulation and Model
 - description: 80%
-  icon: users-class
+  icon: handshake
   icon_pack: fas
   name: Social Networks
 
