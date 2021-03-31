@@ -12,4 +12,4 @@ image:
   focal_point: ""
   preview_only: false
 ---
-As a leading researcher, I ask: How does the coordination evolve from local interactions among selfish agents? I studied the evolution of coordination through reinforcement learning, group decision-making, and behavioral mechanisms (e.g., social learning).
+As a leading researcher, I ask: How does the coordination evolve from local interactions among selfish agents? I studied the evolution of coordination through reinforcement learning, group decision-making, and social learning.
