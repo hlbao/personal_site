@@ -6,7 +6,7 @@ featured: false
 external_link: " "
 links:
   - url: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
-    name: https://arxiv.org/abs/2005.11580
+    name: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
 image:
   filename: ""
   focal_point: ""
