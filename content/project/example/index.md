@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: ""
 url_video: ""
-date: 2021-03-31T00:11:06.648Z
+date: 2021-03-31T00:18:49.656Z
 categories: []
 external_link: " "
 url_slides: ""
