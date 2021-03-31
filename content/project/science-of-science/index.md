@@ -11,4 +11,4 @@ image:
   focal_point: ""
   preview_only: false
 ---
-Measuring scientific value is extremely hard. Can we find consistent patterns regarding the scientific importance of an article in different stages of its publication history? Is this pattern consistent with the article's novelty?
+Measuring scientific value is extremely hard. As a leading researcher, I ask: Can we find consistent patterns regarding the scientific importance of an article in different stages of its publication history? Is this pattern consistent with the article's novelty?
