@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Opinion Propagation with Sparse Interactions in the Open-ended Social Networks
 subtitle: ""
 
 content:
