@@ -21,7 +21,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Cooperation
-doi: https://arxiv.org/abs/2005.11580
+doi: https://doi.org/10.1016/j.physa.2017.09.046
 featured: true
 tags: []
 projects: []
