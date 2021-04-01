@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Data Science
 - description: 90%
-  icon: function
+  icon: pen
   icon_pack: fas
   name: Mathematics and Analytics
 - description: 100%
