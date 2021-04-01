@@ -13,7 +13,7 @@ abstract: >-
   -- with the open-endedness feature of society;
 
 
-  -- with the psychological labs to investigate real-world human behaviors.
+  -- with psychological labs to investigate real-world human behaviors.
 slides: ""
 url_pdf: ""
 publication_types:
