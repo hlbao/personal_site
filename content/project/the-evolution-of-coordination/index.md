@@ -6,7 +6,7 @@ featured: false
 external_link: " "
 links:
   - url: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
-    name: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
+    name: A recent paper
 image:
   filename: ""
   focal_point: ""
