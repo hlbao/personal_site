@@ -12,7 +12,7 @@ tags:
   - Computational Social Science
 links:
   - url: https://github.com/hlbao/evolutionofcommunities
-    name: Empirical Study
+    name: An empirical study
 image:
   caption: ""
   focal_point: ""
