@@ -28,6 +28,10 @@ feature:
   icon: handshake
   icon_pack: fas
   name: Social Network Analysis
+- description: 80%
+  icon: keyboard
+  icon_pack: fas
+  name: Data Science
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
