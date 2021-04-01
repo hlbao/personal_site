@@ -9,7 +9,9 @@ abstract: >-
 
   -- with unequal payoff sharing to study the origins of inequality;
 
+
   -- with the open-endedness feature of society;
+
 
   -- with the psychological labs to investigate real-world human behaviors.
 slides: ""
