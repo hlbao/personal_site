@@ -16,4 +16,6 @@ content:
   order: desc
 design:
   view: 3
+  background:
+    image: https://www.dropbox.com/s/0prnzhxgc6zlpri/feature.jpg?dl=0
 ---
