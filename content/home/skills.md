@@ -32,6 +32,14 @@ feature:
   icon: keyboard
   icon_pack: fas
   name: Data Science
+- description: 90%
+  icon: function
+  icon_pack: fas
+  name: Mathematics and Analytics
+- description: 100%
+  icon: edit
+  icon_pack: fas
+  name: Multidisciplinary Teamwork
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
