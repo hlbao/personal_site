@@ -21,7 +21,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Cooperation
-doi: ""
+doi: https://arxiv.org/abs/2005.11580
 featured: true
 tags: []
 projects: []
