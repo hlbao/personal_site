@@ -1,15 +1,23 @@
 ---
-abstract: Regarding the evolution of cooperation, more generally, agent-based
-  social simulation, I have published several papers in decent computer science
+abstract: >-
+  Regarding the evolution of cooperation, more generally, agent-based social
+  simulation, I have published several papers in decent computer science
   conferences and interdisciplinary journals. I studied the evolution of
   coordination through reinforcement learning, group decision-making, and social
-  learning with unequal payoff sharing to study the origins of inequality, the
-  open-endedness feature of society, and the psychological lab study to
-  investigate real-world human behaviors.
+  learning:
+
+
+  -- with unequal payoff sharing to study the origins of inequality;
+
+  -- with the open-endedness feature of society;
+
+  -- with the psychological labs to investigate real-world human behaviors.
 slides: ""
 url_pdf: ""
 publication_types:
   - "2"
+  - "1"
+  - "3"
 authors:
   - admin
 author_notes: []
