@@ -8,7 +8,7 @@ summary: As a leading author, I am working on a long survey paper that studies
   psychology/behavioral study, organizational sociology, and social networks?
 draft: false
 featured: false
-external_link: https://www.overleaf.com/project/5ea23584977aa200015ae226
+external_link: " "
 links:
   - url: " "
     name: ""
