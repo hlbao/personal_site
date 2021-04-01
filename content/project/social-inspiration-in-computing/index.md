@@ -10,8 +10,8 @@ draft: false
 featured: false
 external_link: https://www.overleaf.com/project/5ea23584977aa200015ae226
 links:
-  - url: https://www.overleaf.com/project/5ea23584977aa200015ae226
-    name: Link
+  - url: " "
+    name: ""
 image:
   filename: ""
   focal_point: ""
