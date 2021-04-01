@@ -40,6 +40,18 @@ feature:
   icon: edit
   icon_pack: fas
   name: Multidisciplinary Teamwork
+- description: 70%
+  icon: book
+  icon_pack: fas
+  name: NLP
+- description: 60%
+  icon: eye
+  icon_pack: fas
+  name: Visualization
+- description: 100%
+  icon: latex
+  icon_pack: fas
+  name: LaTeX
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
