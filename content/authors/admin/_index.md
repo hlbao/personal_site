@@ -31,7 +31,7 @@ email: baohlcs@gmail.com
 superuser: true
 highlight_name: false
 ---
-Hi there! My name is Honglin Carson Bao. Welcome!
+Hi there! My name is Honglin Carson Bao (he/him/his). Welcome!
 
 I have a multidisciplinary education background in mathematics, computer science, and economics. Now I am a Ph.D. candidate at Michigan State University & NSF BEACON Center for the Study of Evolution in Action. I work closely with [Dr. Winson Taiquan Peng](https://comartsci.msu.edu/our-people/taiquan-winson-peng) (Communication and Media Science), [Dr. Zachary Neal](https://www.zacharyneal.com/) (Psychology and Sociology), and Koza Chair Professor [Dr. Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/) (CSE).
 
