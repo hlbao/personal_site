@@ -49,7 +49,7 @@ feature:
   icon_pack: fas
   name: Visualization
 - description: 100%
-  icon: latex
+  icon: highlighter
   icon_pack: fas
   name: LaTeX
 
