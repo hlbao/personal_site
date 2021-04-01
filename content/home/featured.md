@@ -2,8 +2,8 @@
 widget: featured
 widget_id: " "
 headless: true
-weight: 60
-title: Opinion Propagation with Sparse Interactions in the Open-ended Social Networks
+weight: 80
+title: Featured Work
 subtitle: ""
 content:
   page_type: publication
@@ -17,5 +17,5 @@ content:
 design:
   view: 3
   background:
-    image: https://www.dropbox.com/s/0prnzhxgc6zlpri/feature.jpg?dl=0
+    image: ""
 ---
