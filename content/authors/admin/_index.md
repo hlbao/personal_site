@@ -11,7 +11,7 @@ interests:
   - Computational Social Sciences
   - Computational Communication and Social Media
   - Science of Science
-  - Complex Adaptive Systems
+  - Real-world Complex Adaptive Systems
 social:
   - icon: twitter
     icon_pack: fab
