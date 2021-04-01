@@ -9,9 +9,7 @@ summary: As a leading author, I am working on a long survey paper that studies
 draft: false
 featured: false
 external_link: " "
-links:
-  - url: " "
-    name: ""
+links: []
 image:
   filename: ""
   focal_point: ""
