@@ -7,7 +7,7 @@ abstract: >-
   learning:
 
 
-  -- with unequal payoff sharing to study the origins of inequality;
+  -- with social roles and unequal payoff sharing to study the origins of inequality;
 
 
   -- with the open-endedness feature of society;
