@@ -1,7 +1,11 @@
 ---
 slides: example
 url_pdf: ""
-summary: ""
+summary: "As a leading researcher, I ask: How does the opinion propagate in
+  social networks with sparse interactions between humans? Do the sparse
+  interaction and open-endedness feature of social networks reinforce the echo
+  chamber, opinion diversity, or neutralization? How does the opinion evolution
+  guide the co-evolution of social networks?"
 url_video: ""
 date: 2021-03-31T00:18:49.656Z
 categories: []
