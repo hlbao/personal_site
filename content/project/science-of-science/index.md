@@ -1,6 +1,10 @@
 ---
 title: "Science of Science "
 date: 2021-03-31T00:21:29.316Z
+summary: "Measuring scientific value is extremely hard. As a leading researcher,
+  I ask: Can we find consistent patterns regarding the scientific importance of
+  an article in different stages of its publication history? Is this pattern
+  consistent with the article's novelty?"
 draft: false
 featured: false
 tags:
