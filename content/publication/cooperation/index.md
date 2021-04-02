@@ -3,7 +3,7 @@ abstract: >-
   Regarding the evolution of cooperation, more generally, agent-based social
   simulation, I have published several papers in decent computer science
   conferences and interdisciplinary journals. I studied the evolution of
-  coordination through reinforcement learning, group decision-making, and social
+  altruism through reinforcement learning, group decision-making, and social
   learning:
 
 
