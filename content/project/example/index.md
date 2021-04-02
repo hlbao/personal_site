@@ -19,7 +19,7 @@ links:
     name: An empirical study
 image:
   caption: ""
-  focal_point: ""
+  focal_point: SMART
   filename: general.jpeg
   preview_only: false
 url_code: ""
