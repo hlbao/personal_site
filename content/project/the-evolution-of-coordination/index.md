@@ -1,5 +1,5 @@
 ---
-title: The Evolution of Coordination
+title: Evolution of Altruism
 date: 2021-03-31T00:22:24.169Z
 draft: false
 featured: false
@@ -12,4 +12,4 @@ image:
   focal_point: ""
   preview_only: false
 ---
-As a leading researcher, I ask: How does the coordination evolve from local interactions among selfish agents? I studied the evolution of coordination through reinforcement learning, group decision-making, and social learning.
+As a leading researcher, I ask: How do coordination and altruism evolve from local interactions among selfish agents? I studied the evolution of altruism through reinforcement learning, group decision-making, and social learning.
