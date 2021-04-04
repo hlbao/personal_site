@@ -1,5 +1,5 @@
 ---
-title: "Science of Science "
+title: Science of Science (On-going)
 date: 2021-03-31T00:21:29.316Z
 summary: "Measuring scientific value is extremely hard. As a leading researcher,
   I ask: Can we find consistent patterns regarding the scientific importance of
