@@ -1,5 +1,5 @@
 ---
-title: Innovation Diffusion
+title: Innovation Diffusion (Completed)
 date: 2021-03-31T00:28:19.410Z
 draft: false
 featured: false
