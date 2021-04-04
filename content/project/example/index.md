@@ -11,7 +11,7 @@ date: 2021-03-31T00:18:49.656Z
 categories: []
 external_link: " "
 url_slides: ""
-title: Opinion Propagation
+title: Opinion Propagation (Under Review)
 tags:
   - Computational Social Science
 links:
