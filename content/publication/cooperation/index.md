@@ -4,7 +4,7 @@ abstract: >-
   simulation, I have published several papers in decent computer science
   conferences and interdisciplinary journals. I studied the evolution of
   altruism through reinforcement learning, group decision-making, social
-  learning, and reputation-based social regulation:
+  learning, and reputation-based behavioral regulation:
 
 
   -- with social roles and unequal payoff sharing to study the origins of inequality;
