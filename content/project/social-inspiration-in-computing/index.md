@@ -1,5 +1,5 @@
 ---
-title: Social Inspiration in Computing
+title: Social Inspiration in Computing (On-going)
 date: 2021-03-31T21:13:32.744Z
 summary: As a leading author, I am working on a long survey paper that studies
   the inspiration from social sciences in the computing realm. How does the
