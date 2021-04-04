@@ -1,5 +1,5 @@
 ---
-title: Evolution of Altruism
+title: Evolution of Altruism (Completed)
 date: 2021-03-31T00:22:24.169Z
 draft: false
 featured: false
