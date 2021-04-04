@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: "As a leading researcher, I ask: How does the opinion propagate in
   social networks with sparse interactions between bounded-rational humans? Do
-  the sparse interaction and open-endedness feature of social networks reinforce
+  sparse interaction and the open-endedness feature of social networks reinforce
   the echo chamber, opinion diversity, or neutralization? How does the opinion
   evolution guide the co-evolution of social networks?"
 url_video: ""
@@ -24,4 +24,4 @@ image:
   preview_only: false
 url_code: ""
 ---
-As a leading researcher, I ask: How does the opinion propagate in social networks with sparse interactions between bounded-rational humans? Do the sparse interaction and open-endedness feature of social networks reinforce the echo chamber, opinion diversity, or neutralization? How does the opinion evolution guide the co-evolution of social networks?
+As a leading researcher, I ask: How does the opinion propagate in social networks with sparse interactions between bounded-rational humans? Do sparse interaction and the open-endedness feature of social networks reinforce the echo chamber, opinion diversity, or neutralization? How does the opinion evolution guide the co-evolution of social networks?
