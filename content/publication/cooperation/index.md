@@ -49,12 +49,3 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-Regarding the evolution of cooperation, more generally, agent-based social simulation, I have published several papers in decent computer science conferences and interdisciplinary journals. I studied the evolution of altruism through reinforcement learning, group decision-making, social learning, and reputation-based behavioral regulation:
-
-\-- with social roles and unequal payoff sharing to study the origins of inequality;
-
-\-- with the open-endedness feature of society;
-
-\-- with psychological labs to investigate real-world human behaviors.
-
-A sample paper is shown below:
