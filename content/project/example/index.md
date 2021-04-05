@@ -16,7 +16,7 @@ tags:
   - Computational Social Science
 links:
   - url: https://github.com/hlbao/evolutionofcommunities
-    name: An empirical study
+    name: An empirical study link and the open-source project link on GitHub
 image:
   caption: ""
   focal_point: SMART
