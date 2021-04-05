@@ -13,8 +13,8 @@ links:
   - url: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
     name: A recent paper
 image:
-  filename: ""
-  focal_point: ""
+  filename: wechatimg65.png
+  focal_point: SMART
   preview_only: false
 ---
 As a leading researcher, I ask: How do coordination and altruism evolve from local interactions among selfish agents? I studied the evolution of altruism through reinforcement learning, group decision-making, and behavioral mechanisms (e.g., social learning and reputation-based regulation).
