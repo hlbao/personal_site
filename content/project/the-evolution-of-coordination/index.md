@@ -8,7 +8,7 @@ summary: "As a leading researcher, I ask: How do coordination and altruism
   regulation)."
 draft: false
 featured: false
-external_link: " "
+external_link:''
 links:
   - url: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
     name: A recent paper
