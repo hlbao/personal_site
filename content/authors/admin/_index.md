@@ -3,10 +3,13 @@ title: "Honglin Carson Bao "
 role: PhD Candidate, Computational Social Scientist, Adventurer
 avatar_filename: wechatimg469.jpeg
 bio: ""
-interests:
+Research Interests (Methodology):
   - Multiagent Systems and Agent-based Models
-  - Social Networks
+  - Social Network Analysis
   - (Evolutionary) Game Theory
+  - Quasi-experiments and Casualty
+  - Machine Learning and NLP
+Research Interests (Substance):
   - Computational Social Sciences
   - Computational Communication and Social Media
   - Science of Science
