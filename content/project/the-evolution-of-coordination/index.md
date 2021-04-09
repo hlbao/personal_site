@@ -14,6 +14,8 @@ links:
     name: A recent paper link
   - url: https://www.carsonhlbao.com/publication/cooperation/
     name: A post
+  - url: https://www.sciencedirect.com/science/article/abs/pii/S037843711730938X?via%3Dihub
+    name: A psychological lab study link
 image:
   filename: wechatimg65.png
   focal_point: SMART
