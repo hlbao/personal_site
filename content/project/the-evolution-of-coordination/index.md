@@ -12,6 +12,8 @@ external_link: " "
 links:
   - url: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
     name: A recent paper link
+  - url: https://www.carsonhlbao.com/publication/cooperation/
+    name: A post
 image:
   filename: wechatimg65.png
   focal_point: SMART
