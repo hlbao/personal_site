@@ -17,4 +17,4 @@ image:
   focal_point: SMART
   preview_only: false
 ---
-As a leading researcher, I ask: How do coordination and altruism evolve from local interactions among selfish agents? I studied the evolution of altruism on social networks through reinforcement learning, group decision-making, and behavioral mechanisms (e.g., social learning and reputation-based regulation).
+As a leading researcher, I ask: How do coordination and altruism evolve from local interactions among selfish agents? I studied the evolution of altruism on social networks through reinforcement learning, group decision-making, behavioral mechanisms (e.g., social learning and reputation-based regulation), and psychological labs.
