@@ -14,6 +14,9 @@ abstract: >-
 
 
   -- with psychological labs to investigate real-world human behaviors.
+
+
+  A sample publication is listed below:
 slides: ""
 url_pdf: ""
 publication_types:
@@ -31,7 +34,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Cooperation
-doi: ""
+doi: https://doi.org/10.1162/isal_a_00082
 featured: true
 tags: []
 projects: []
