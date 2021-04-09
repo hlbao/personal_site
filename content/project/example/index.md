@@ -18,8 +18,6 @@ tags:
 links:
   - url: https://github.com/hlbao/evolutionofcommunities
     name: An empirical study link and the open-source project link on GitHub
-  - url: https://github.com/hlbao/network_diffusion
-    name: A simulation project link
 image:
   caption: ""
   focal_point: SMART
