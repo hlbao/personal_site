@@ -14,9 +14,6 @@ abstract: >-
 
 
   -- with psychological labs to investigate real-world human behaviors.
-
-
-  A sample paper is shown below:
 slides: ""
 url_pdf: ""
 publication_types:
@@ -34,7 +31,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Cooperation
-doi: https://doi.org/10.1016/j.physa.2017.09.046
+doi: ""
 featured: true
 tags: []
 projects: []
