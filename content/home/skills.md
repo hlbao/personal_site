@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: Skills
 headless: true
 weight: 30
 title: Skills
@@ -41,5 +41,5 @@ feature:
     icon: highlighter
     icon_pack: fas
     name: LaTeX
-widget_id: skills
+widget_id: Skills
 ---
