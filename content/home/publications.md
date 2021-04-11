@@ -1,5 +1,5 @@
 ---
-widget: RECENT-NEWS
+widget: pages
 widget_id: RECENT-NEWS
 headless: true
 weight: 90
