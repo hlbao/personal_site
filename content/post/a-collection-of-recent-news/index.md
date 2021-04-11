@@ -1,5 +1,6 @@
 ---
 title: Causality
+subtitle: causality
 date: 2021-04-02T13:59:01.299Z
 summary: "“Causality: Models, Reasoning and Inference” by Judea Pearl."
 draft: false
