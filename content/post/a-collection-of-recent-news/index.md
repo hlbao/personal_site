@@ -1,6 +1,13 @@
 ---
-title: A Collection of Recent News
+title: Causality
 date: 2021-04-02T13:59:01.299Z
+summary: "The quantitative method is always my top priority focus in my
+  research. Causal inference and quasi-experiments are especially interesting
+  for me beyond simple correlation. Since April 2021, I plan to systematically
+  and thoroughly read “Causality: Models, Reasoning and Inference” by Judea
+  Pearl, focusing on every single detail. I will regularly write notes about my
+  thoughts and share them **[here](https://github.com/hlbao/causality)**. Take a
+  look!"
 draft: false
 featured: false
 image:
@@ -8,4 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A Collection of Recent News...
+I plan to systematically and thoroughly read “Causality: Models, Reasoning and Inference” by Judea Pearl, focusing on every single detail.
