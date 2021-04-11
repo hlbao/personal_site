@@ -1,6 +1,17 @@
 ---
-title: CV OF FAILURES
+title: My nerdy stuff (mainly open-source projects)
 date: 2021-04-02T13:58:18.539Z
+summary: I am committed to open science. Coding is an essential part of my
+  academic life because techniques, skills, and practical implementation ability
+  are essential for a "solution-based" computational social scientist. I
+  regularly implement and am involved in open-source real-world projects and
+  software – crawling real-world data sets like rumors in social media, facial
+  expression mapping confidence and its deep learning-based classification,
+  various classic agent-based models, social network analysis models,
+  large-scale text data cleaning and text auto-generation models, topic models
+  and text cohesion in NLP, community detection, bioinformatics software, and
+  many machine learning algorithms. See my
+  GitHub: **<https://github.com/hlbao>**
 draft: false
 featured: false
 image:
@@ -8,4 +19,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* Inspired by Princeton professor of psychology and public affairs [Dr. Johannes Haushofer](https://www.uni-goettingen.de/de/document/download/bed2706fd34e29822004dbe29cd00bb5.pdf/Johannes_Haushofer_CV_of_Failures%5B1%5D.pdf), here is my CV OF FAILURES -- all the papers that did not get accepted and the money I did not get.
+I am committed to open science. Coding is an essential part of my academic life because techniques, skills, and practical implementation ability are essential for a "solution-based" computational social scientist. I regularly implement and am involved in open-source real-world projects and software – crawling real-world data sets like rumors in social media, facial expression mapping confidence and its deep learning-based classification, various classic agent-based models, social network analysis models, large-scale text data cleaning and text auto-generation models, topic models and text cohesion in NLP, community detection, bioinformatics software, and many machine learning algorithms. See my GitHub: **<https://github.com/hlbao>**
