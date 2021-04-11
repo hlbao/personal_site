@@ -1,5 +1,5 @@
 ---
-widget: featurette
+widget: featured
 headless: true
 weight: 30
 title: Skills
