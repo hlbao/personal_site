@@ -1,9 +1,9 @@
 ---
-widget: pages
-widget_id: recent-posts
+widget: Posts
+widget_id: Posts
 headless: true
 weight: 60
-title: Recent Posts
+title: Posts
 subtitle: null
 content:
   page_type: post
