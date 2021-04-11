@@ -1,5 +1,5 @@
 ---
-widget: Posts
+widget: featured
 widget_id: Posts
 headless: true
 weight: 60
