@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: RECENT-NEWS
 widget_id: RECENT-NEWS
 headless: true
 weight: 90
