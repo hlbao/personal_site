@@ -1,17 +1,7 @@
 ---
 title: My nerdy stuff (mainly open-source projects)
 date: 2021-04-02T13:58:18.539Z
-summary: I am committed to open science. Coding is an essential part of my
-  academic life because techniques, skills, and practical implementation ability
-  are essential for a "solution-based" computational social scientist. I
-  regularly implement and am involved in open-source real-world projects and
-  software – crawling real-world data sets like rumors in social media, facial
-  expression mapping confidence and its deep learning-based classification,
-  various classic agent-based models, social network analysis models,
-  large-scale text data cleaning and text auto-generation models, topic models
-  and text cohesion in NLP, community detection, bioinformatics software, and
-  many machine learning algorithms. See my
-  GitHub: **<https://github.com/hlbao>**
+summary: The best way to learn a theory is to implement it.
 draft: false
 featured: false
 image:
