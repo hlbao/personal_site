@@ -26,7 +26,7 @@ Besides this, I remember an excellent theory-construction paper by Winson Peng f
 
 "… are cited more for rhetorical purposes, as suggested by the social constructivist approach, rather than as a form of reward, as argued by normative theory. The impact of time on citations varies across journals, which creates a growing "citation gap" for Internet studies published in journals with different characteristics …… have to depend more on the authoritative literature to "advance their interests, defend their claims against attack, convince others, and gain a dominant position in their scientific community."
 
-Citation is a kind of rhetorical purpose rather than the form of reward, which actually implies the Mattew effect in its growth -- the rich get richer. Because widely-cited work is an excellent tool to "defend claims against attack, convince others, and gain a dominant position in the scientific community."
+Citation is a kind of rhetorical purpose rather than the form of reward, which actually implies the Mattew effect in its growth -- the rich get richer. Because widely-cited work is an excellent tool to "defend claims against attack, convince others, and gain a dominant position in the scientific community." What a disappointment!
 
 Reference:
 
@@ -35,5 +35,3 @@ Reference:
 \[2] Wang, Xianwen, Zhichao Fang, and Xiaoling Sun. "Usage patterns of scholarly articles on Web of Science: A study on Web of Science usage count." *Scientometrics* 109.2 (2016): 917-926.
 
 \[3] Peng, Tai‐Quan, and Jonathan JH Zhu. "Where you publish matters most: A multilevel analysis of factors affecting citations of internet studies." *Journal of the American Society for Information Science and Technology* 63.9 (2012): 1789-1803.
-
-\---------------------
