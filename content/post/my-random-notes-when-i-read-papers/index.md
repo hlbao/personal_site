@@ -12,11 +12,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Okay, I will continue updating this page to include my reviews, comments, and notes when selecting the papers I like and reading them.
+Reading papers is my daily task. Some are particularly interesting and useful inspiring me a lot. I will continue updating this page to include my review, comments, discussion, and notes when I encounter these extraordinary papers luckily.
 
 * West, Jevin D., and Carl T. Bergstrom. "Misinformation in and about science." *Proceedings of the National Academy of Sciences* 118.15 (2021).
 
-"Most of the research efforts and interventions examine broad, public consumption of misinformation. In this article, we turn the spotlight on science from the perspectives of Hype and Hyperbole, Publication Bias, Citation Misdirection, Fake News and Predatory Publishing, Echo Chambers, Data and Science Distortion, and Interventions. We look at the ways that misinformation can travel within science due to misaligned incentives, out-of-date publishing norms, and sociotechnical systems that concentrate attention and credit on a small subset of the literature."
+"Most of the research efforts and interventions examine broad, public consumption of misinformation. In this article, we turn the spotlight on science from the perspectives of Hype and Hyperbole, Publication Bias, Citation Misdirection, Fake News and Predatory Publishing, Echo Chambers, Data and Science Distortion, and Interventions. We look at the ways that misinformation can travel within science due to misaligned incentives, out-of-date publishing norms, and socio-technical systems that concentrate attention and credit on a small subset of the literature."
 
 The first point is Hype and Hyperbole, which is indeed a problem. Why a paper can be widely disseminated on social networks may be more due to its novelty, interestingness, and topicality rather than its academic value. I am just curious about this question: Is there a relationship, correlation or casuality, between the social discussion at the early stage and its future citation? Altmetric score is an indicator for social discussion. Some papers argue it is not related to future citation \[1], but some articles argue it is significantly associated with future citation \[2]. It is interesting to find that two contrast conclusions can be published in respected journals of the same field. I am curious whether the data set they choose significantly influences the result.
 
