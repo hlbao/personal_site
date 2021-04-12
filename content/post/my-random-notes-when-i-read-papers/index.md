@@ -2,6 +2,9 @@
 title: My random notes when I read papers
 subtitle: ""
 date: 2021-04-12T20:10:52.647Z
+summary: my comments on the selected papers in a broad range of computational
+  social science -- the science of science, social media, complex systems, and
+  so on...
 draft: false
 featured: false
 image:
