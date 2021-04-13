@@ -35,3 +35,5 @@ Reference:
 \[2] Wang, Xianwen, Zhichao Fang, and Xiaoling Sun. "Usage patterns of scholarly articles on Web of Science: A study on Web of Science usage count." *Scientometrics* 109.2 (2016): 917-926.
 
 \[3] Peng, Tai‐Quan, and Jonathan JH Zhu. "Where you publish matters most: A multilevel analysis of factors affecting citations of internet studies." *Journal of the American Society for Information Science and Technology* 63.9 (2012): 1789-1803.
+
+* Watts, Duncan J., David M. Rothschild, and Markus Mobius. "Measuring the news and its impact on democracy." *Proceedings of the National Academy of Sciences* 118.15 (2021).
