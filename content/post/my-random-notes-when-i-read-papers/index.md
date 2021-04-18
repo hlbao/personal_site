@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Reading papers is my daily task. Some of them are particularly interesting and useful -- inspiring me a lot. I will regularly update this page to include my review, comments, and random thoughts when I encounter these extraordinary papers luckily. Feel free to contact me for any discussions -- They are not formal academic articles, so be tolerant of the format :)
+Reading papers is my daily task. Some of them are particularly interesting and useful -- inspiring me a lot. I will regularly update this page to include my review, comments, and random thoughts when I encounter these extraordinary papers luckily. Feel free to contact me for any discussions -- Random thoughts are not formal academic articles, so be tolerant of the format :)
 
 * [Notes on West, Jevin D., and Carl T. Bergstrom. "Misinformation in and about science." *Proceedings of the National Academy of Sciences* 118.15 (2021).](https://docs.google.com/document/d/1sT-oseC9EVJUbXNXmLZn2tWmftyoFkYumTtr-7voH4A/edit?usp=sharing)
 * [Notes on Watts, Duncan J., David M. Rothschild, and Markus Mobius. "Measuring the news and its impact on democracy." *Proceedings of the National Academy of Sciences* 118.15 (2021)](https://docs.google.com/document/d/1E6Idk6wvX1yZkQtt74o_LO753MmSSfJT8j_yHfjyopk/edit?usp=sharing)
