@@ -22,4 +22,4 @@ Reading papers is my daily task. Some of them are particularly interesting and u
 
 [Notes on Mukerjee, Subhayan, Tian Yang, and Sandra González-Bailón. "What counts as a weak tie? A comparison of filtering techniques for weighted networks." *A Comparison of Filtering Techniques for Weighted Networks* (April 8, 2019).](https://docs.google.com/document/d/1iEJisbx1SUmeFBFMRKi2SNXBpM0D74BcUHgpb7kIb74/edit?usp=sharing)
 
-Notes on Leonardi, Paul, and Noshir Contractor. "Better people analytics." *Harvard Business Review* 96.6 (2018): 70-81, and Jacobs, Abigail Z., and Duncan J. Watts. "A large-scale comparative study of informal social networks in firms." *Management Science* (2021).
+[Notes on Leonardi, Paul, and Noshir Contractor. "Better people analytics." *Harvard Business Review* 96.6 (2018): 70-81, and Jacobs, Abigail Z., and Duncan J. Watts. "A large-scale comparative study of informal social networks in firms." *Management Science* (2021).](https://docs.google.com/document/d/1d48_RqVz-7pBdyerMhx5VZUcPwSaS6G-RYBY1RBDdGE/edit?usp=sharing)
