@@ -24,4 +24,4 @@ Reading papers is my daily task. Some of them are particularly interesting and u
 
 [Notes on Leonardi, Paul, and Noshir Contractor. "Better people analytics." *Harvard Business Review* 96.6 (2018): 70-81, and Jacobs, Abigail Z., and Duncan J. Watts. "A large-scale comparative study of informal social networks in firms." *Management Science* (2021).](https://docs.google.com/document/d/1d48_RqVz-7pBdyerMhx5VZUcPwSaS6G-RYBY1RBDdGE/edit?usp=sharing)
 
-Notes on Rose, Michael E., Co-Pierre Georg, and Daniel C. Opolot. "Discussants." *Max Planck Institute for Innovation & Competition Research Paper* 20-19 (2020).
+[Notes on Rose, Michael E., Co-Pierre Georg, and Daniel C. Opolot. "Discussants." *Max Planck Institute for Innovation & Competition Research Paper* 20-19 (2020).](https://docs.google.com/document/d/1tZik2EL_YxshCLdMJN3BtBK-6H-kTgggsb3xs8GYTqE/edit?usp=sharing)
