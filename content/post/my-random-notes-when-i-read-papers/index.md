@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Reading papers is my daily task. Some of them are particularly interesting and useful -- inspiring me a lot. I will regularly update this page to include my review, comments, and random thoughts when I encounter these extraordinary papers luckily. Feel free to contact me for any discussions -- Random thoughts are not formal academic articles, so be tolerant of the format :)[](https://docs.google.com/document/d/1sT-oseC9EVJUbXNXmLZn2tWmftyoFkYumTtr-7voH4A/edit?usp=sharing)
+Reading papers is my daily task. They build my social insights and methodological thinking. I am also careful to read too much into prior work because it might kill my creativity. Thus, I value the paper selection -- I appreciate the work which really inspires me. I will regularly update this page to collect and include my review, comments, and random thoughts when I encounter these inspiring papers luckily. Feel free to contact me for any discussions -- Random thoughts are not formal academic articles, so be tolerant of the format :)
 
 [Notes on West, Jevin D., and Carl T. Bergstrom. "Misinformation in and about science." *Proceedings of the National Academy of Sciences* 118.15 (2021).](https://docs.google.com/document/d/1sT-oseC9EVJUbXNXmLZn2tWmftyoFkYumTtr-7voH4A/edit?usp=sharing)
 
