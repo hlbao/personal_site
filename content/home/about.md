@@ -1,11 +1,14 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: Biography
 headless: true
 weight: 10
 title: Biography
-active: true
-author: admin
+design:
+  background:
+    image: /assets/media/wechatimg469.jpeg
 ---
 Hi there! My name is Honglin Carson Bao (he/him/his). Welcome!
 
