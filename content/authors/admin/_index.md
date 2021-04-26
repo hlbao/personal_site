@@ -1,7 +1,7 @@
 ---
 title: "Honglin Carson Bao "
 role: PhD Candidate, Computational Social Scientist, Adventurer
-avatar_filename: ""
+avatar_filename: "avatar"
 bio: ""
 social:
   - icon: twitter
