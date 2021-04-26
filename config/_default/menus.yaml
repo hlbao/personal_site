@@ -19,11 +19,11 @@ main:
   - name: Projects
     url: '#projects'
     weight: 50
-  - name: Featured Publications
-    url: '#featuredpublications'
+  - name: Publications
+    url: '#featured'
     weight: 60
   - name: CV of Failures
-    url: '#failures'
+    url: '#publications'
     weight: 70
     
     
