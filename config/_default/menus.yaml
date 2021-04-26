@@ -20,8 +20,14 @@ main:
     url: '#projects'
     weight: 50
   - name: Featured Publications
-    url: '#featured'
+    url: '#featuredpublications'
     weight: 60
+  - name: CV of Failures
+    url: '#failures'
+    weight: 70
+    
+    
+
 
 
 # Link to a PDF of your resume/CV from the menu.
