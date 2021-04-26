@@ -21,8 +21,8 @@ links:
 image:
   caption: ""
   focal_point: SMART
-  filename: "general"
-  preview_only: false
+  filename: "avatar"
+  preview_only: true
 url_code: ""
 ---
 As a leading researcher, I ask: How does the opinion propagate in social networks with sparse interactions between heterogeneous bounded-rational humans? Do sparse interaction and the open-endedness feature of social networks reinforce the echo chamber, opinion diversity, or neutralization? How does the opinion evolution guide the co-evolution of social networks?
