@@ -21,7 +21,7 @@ links:
 image:
   caption: ""
   focal_point: SMART
-  filename: general.jpeg
+  filename: "general"
   preview_only: false
 url_code: ""
 ---
