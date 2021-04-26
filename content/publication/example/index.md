@@ -24,8 +24,8 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
-  filename: https://www.dropbox.com/s/0prnzhxgc6zlpri/feature.jpg?dl=0
+  preview_only: true
+  filename: "avatar"
 date: 2021-04-01T00:55:09.956Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
