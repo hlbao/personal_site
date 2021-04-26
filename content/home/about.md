@@ -10,9 +10,10 @@ design:
   background:
     image: /assets/media/wechatimg469.jpeg
     text_color_light: false
-    gradient_end: "#000000"
-    gradient_start: "#000000"
-    color: "#000000"
+    gradient_end: ""
+    gradient_start: ""
+    color: ""
+    image_darken: ""
 ---
 Hi there! My name is Honglin Carson Bao (he/him/his). Welcome!
 
