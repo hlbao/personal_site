@@ -1,6 +1,6 @@
 ---
 widget: about
-active: false
+active: true
 author: admin
 widget_id: Biography
 headless: true
@@ -10,6 +10,9 @@ design:
   background:
     image: /assets/media/wechatimg469.jpeg
     text_color_light: false
+    gradient_end: "#000000"
+    gradient_start: "#000000"
+    color: "#000000"
 ---
 Hi there! My name is Honglin Carson Bao (he/him/his). Welcome!
 
