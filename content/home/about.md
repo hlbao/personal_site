@@ -8,7 +8,7 @@ weight: 10
 title: Biography
 design:
   background:
-    image: /assets/media/wechatimg469.jpeg
+    image: ""
     text_color_light: false
     gradient_end: ""
     gradient_start: ""
