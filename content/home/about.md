@@ -9,7 +9,7 @@ title: Biography
 design:
   background:
     image: ""
-    text_color_light: true
+    text_color_light: false
     gradient_end: ""
     gradient_start: ""
     color: ""
