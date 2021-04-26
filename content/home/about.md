@@ -9,7 +9,7 @@ title: Biography
 design:
   background:
     image: /assets/media/wechatimg469.jpeg
-    text_color_light: true
+    text_color_light: false
 ---
 Hi there! My name is Honglin Carson Bao (he/him/his). Welcome!
 
