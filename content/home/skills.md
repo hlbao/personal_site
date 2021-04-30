@@ -29,7 +29,7 @@ feature:
     icon: edit
     icon_pack: fas
     name: Multidisciplinary Teamwork
-  - description: 70%
+  - description: 80%
     icon: book
     icon_pack: fas
     name: NLP and Machine Learning
