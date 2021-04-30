@@ -16,7 +16,7 @@ links:
     name: A post
   - url: https://www.sciencedirect.com/science/article/abs/pii/S037843711730938X?via%3Dihub
     name: A psychological lab study link
-  - url: https://arxiv.org/abs/2005.11580
+  - url: https://www.overleaf.com/read/njkmbjpttfhg
     name: A significantly extended journal version link
 image:
   filename: wechatimg65.png
