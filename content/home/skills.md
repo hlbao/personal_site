@@ -32,7 +32,7 @@ feature:
   - description: 70%
     icon: book
     icon_pack: fas
-    name: NLP
+    name: NLP and Machine Learning
   - description: 60%
     icon: eye
     icon_pack: fas
