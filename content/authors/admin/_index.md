@@ -16,7 +16,7 @@ social:
 organizations:
   - name: "NSF BEACON Center for the Study of Evolution in Action "
     url: https://www3.beacon-center.org/
-  - name: MSU
+  - name: Michigan State University
     url: https://www.cse.msu.edu/
 superuser: true
 Interests:
