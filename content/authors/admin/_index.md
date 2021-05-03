@@ -39,6 +39,6 @@ I am a computational scientist in training at BEACON. I previously leveraged tec
 
 (Well, my research interests shift is a long story. Please check out this ***[post](https://www.carsonhlbao.com/post/filling-in-the-missing-data-of-theory-driven-agent-based-simulation-in-social-sciences/)*** about my thinking regarding "traditional" agent-based simulation and "modern" computational social science.)
 
-Outside academia, I spend my time (though not much of it) primarily on Japanese manga series (I'm a big fan of the [Dragon Ball](https://dragonball.fandom.com/wiki/Dragon_Ball_(anime))), sports (badminton, swimming...), and music -- classical music (I play clarinet) and, somewhat contrastingly, rock 'n roll. [Here](https://www.dropbox.com/s/g2midsxj7ft6u6g/tattoo.png?dl=0) is one of my favorite tattoos (based on [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury)).
+Outside academia, I spend my time (though not much of it) primarily on Japanese anime (I'm a big fan of the [Dragon Ball](https://dragonball.fandom.com/wiki/Dragon_Ball_(anime))), sports (badminton, swimming...), and music -- classical music (I play clarinet) and, somewhat contrastingly, rock 'n roll. [Here](https://www.dropbox.com/s/g2midsxj7ft6u6g/tattoo.png?dl=0) is one of my favorite tattoos (based on [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury)).
 
 I am active in research collaboration as well as the discussion of hobbies. Contact me: **baohlcs@gmail.com**
