@@ -9,7 +9,10 @@ summary: As a leading author, I am working on a long survey paper that studies
 draft: false
 featured: false
 external_link: " "
-links: []
+links:
+  - url: https://www.dropbox.com/sh/vpvglnq3ya5nxbu/AABpk0xu-TzEUIdyori3xh3za?dl=0
+    name: The paper collection covering the social inspiration in all subfields of
+      computer science
 image:
   filename: ""
   focal_point: ""
