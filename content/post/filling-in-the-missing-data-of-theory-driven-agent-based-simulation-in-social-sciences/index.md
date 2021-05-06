@@ -1,7 +1,6 @@
 ---
-title: Filling in the Missing Data of Theory-driven Agent-based Simulation in
-  Social Sciences
-date: 2021-04-11T00:31:37.102Z
+title: The Missing Data of Theory-driven Agent-based Simulation in Social Sciences
+date: 2021-02-18T23:48:44.466Z
 summary: my criticism on social theory-driven simulation.
 draft: false
 featured: false
@@ -18,7 +17,7 @@ An agent-based simulation is a powerful technique if serving as an option in the
 
 Currently, I am working towards a grounded research direction focusing on the **real-world issues in CSS like social media, real-world complex networks, marketing, urban science, public health, and science of science through cross-fertilizing observational (e.g., trace data), theoretical (e.g., simulation), and experimental (e.g., virtual labs) studies**. I believe this way is a complete picture to do impactful CSS. After all, computation is a means to an end. The end has to be found in the formal social theories, social research methods and design, causal inference even prediction, etc., which remain the main melody of CSS. They are not contradictory trends but complementary (Monroe 2015).
 
-Though I really enjoy ABM, my comfort zone – it is intuitive and fun. It can generate novel patterns through simple agent interactions based on your strong or weak assumptions (aka the macro-micro linkage issue in classic sociology). I would say that it somewhat shows a shallow kind of love of a research field if someone enters it just because "I want to do it for fun." It represents a more profound love when we are willing to spend a significant fraction of life working on more valuable parts and studying them really, really well. In this process, we will boost our potential, leave our comfort zone, and enter the growth zone. I am willing to contribute long-term efforts and continue conducting high-quality research to fill in the missing data of theory-driven agent-based simulation in social sciences.
+Though I really enjoy ABM, my comfort zone – it is intuitive and fun. It can generate novel patterns through simple agent interactions based on your strong or weak assumptions (aka the macro-micro linkage issue in classic sociology). I would say that it somewhat shows a shallow kind of love of a research field if someone enters it just because "I want to do it for fun." It represents a more profound love when we are willing to spend a significant fraction of life working on more valuable parts and studying them really, really well. In this process, we will boost our potential, leave our comfort zone, and enter the growth zone. I am willing to contribute long-term efforts and continue conducting high-quality research to cross-fertilize different methodologies with data capability.
 
 References:
 
