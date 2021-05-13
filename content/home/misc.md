@@ -1,16 +1,25 @@
 ---
-widget: misc
-active: true
-date_format: Jan 2006
-experience: null
-widget_id: Misc
+widget: pages
+widget_id: RECENT-NEWS
 headless: true
-weight: 40
+weight: 90
 title: Misc
-subtitle: null
+subtitle: ""
+content:
+  page_type: publication
+  count: 5
+  offset: 0
+  order: desc
+  filters:
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: true
+design:
+  view: 4
 ---
 Outside academia, I spend my spare time (though not much of it) primarily on the following stuffs:
-
 * Japanese anime. I’m a big fan of the Dragon Ball. Because of the prior evolutionary biology background, I also enjoy the Japanese Manga series Parasyte very much.
 * Sports. I love playing badminton, swimming, running, and strength training.
 * Reading. History, contemporary art, and nutritional science.
