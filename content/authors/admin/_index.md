@@ -39,4 +39,4 @@ I am a computational scientist in training at BEACON. I previously leveraged tec
 
 (Well, my research interests shift is a long story. Please check out this ***[post about my thinking](https://www.carsonhlbao.com/post/filling-in-the-missing-data-of-theory-driven-agent-based-simulation-in-social-sciences/)*** regarding "traditional" agent-based simulation and "modern" computational social science, as well as ***[the argument by the German sociologist Thomas Malsch](https://docs.google.com/document/d/1GkKP4thGPdAU5qYU2izLJyQOwZ8wE9OnDQeIM79VYis/edit?usp=sharing)***.)
 
-I am active in research collaboration as well as the discussion of hobbies. Contact me: **baohlcs@gmail.com**
+I am active in research collaboration. Contact me: **baohlcs@gmail.com**
