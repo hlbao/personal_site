@@ -26,7 +26,7 @@ main:
     url: '#publications'
     weight: 70
   - name: Misc
-    url: '#Misc'
+    url: '#misc'
     weight: 80
     
 
