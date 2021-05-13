@@ -39,6 +39,4 @@ I am a computational scientist in training at BEACON. I previously leveraged tec
 
 (Well, my research interests shift is a long story. Please check out this ***[post about my thinking](https://www.carsonhlbao.com/post/filling-in-the-missing-data-of-theory-driven-agent-based-simulation-in-social-sciences/)*** regarding "traditional" agent-based simulation and "modern" computational social science, as well as ***[the argument by the German sociologist Thomas Malsch](https://docs.google.com/document/d/1GkKP4thGPdAU5qYU2izLJyQOwZ8wE9OnDQeIM79VYis/edit?usp=sharing)***.)
 
-Outside academia, I spend my time (though not much of it) primarily on Japanese anime (I'm a big fan of the [Dragon Ball](https://dragonball.fandom.com/wiki/Dragon_Ball_(anime))), sports (badminton, swimming...), reading (history and arts in general), and music -- classical music (I play clarinet) and, somewhat contrastingly, rock 'n roll. [Here](https://www.dropbox.com/s/g2midsxj7ft6u6g/tattoo.png?dl=0) is one of my favorite tattoos (based on [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury), as his Rock is full of classical poetry, e.g., [Bohemian Rhapsody](https://www.classicfm.com/discover-music/latest/bohemian-rhapsody-classical-playlist/)).
-
 I am active in research collaboration as well as the discussion of hobbies. Contact me: **baohlcs@gmail.com**
