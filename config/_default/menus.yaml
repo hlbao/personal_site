@@ -25,7 +25,9 @@ main:
   - name: CV of Failures
     url: '#publications'
     weight: 70
-    
+  - name: Misc
+    url: '#Misc'
+    weight: 80
     
 
 
