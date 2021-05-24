@@ -35,18 +35,18 @@ Though I really enjoy ABM, my comfort zone – it is intuitive and fun. It can g
 
 References:
 
-**\[Lazer 2009]** Lazer, David, et al. "Computational social science." *Science* (New York, NY) 323.5915 (2009): 721-723.
-
-**\[Malsch 2001]** Malsch, Thomas. "Naming the unnamable: Socionics or the sociological turn of/to distributed artificial intelligence." *Autonomous Agents and Multi-agent Systems* 4.3 (2001): 155-186.
-
-**\[Watts 2017]** Watts, Duncan J. "Should social science be more solution-oriented?." *Nature Human Behavior* 1.1 (2017): 1-5.
-
-**\[Monroe 2015]** Monroe, Burt L., et al. "No! Formal theory, causal inference, and big data are not contradictory trends in political science." *PS*: *Political Science & Politics* 48.1 (2015): 71-74.
-
-**\[Hilbert 2019]** Hilbert, Martin, et al. "Computational communication science: A methodological catalyzer for a maturing discipline." *International Journal of Communication* 13 (2019): 3912–3934.
-
 **\[Doran 1998]** Doran, Jim. "Simulating collective misbelief." *Journal of Artificial Societies and Social Simulation* 1.1 (1998): 3.
 
 **\[Gilbert 1995]** Gilbert, Nigel, and Rosaria Conte. *Artificial Societies*. Taylor & Francis, 1995.
 
 **\[Hales 1998]** Hales, David. "Artificial societies, theory building, and memetics." *Proceedings of the 15th International Conference on Cybernetics, International Association for Cybernetics (IAC)*. 1998.
+
+**\[Hilbert 2019]** Hilbert, Martin, et al. "Computational communication science: A methodological catalyzer for a maturing discipline." *International Journal of Communication* 13 (2019): 3912–3934.
+
+**\[Lazer 2009]** Lazer, David, et al. "Computational social science." *Science* (New York, NY) 323.5915 (2009): 721-723.
+
+**\[Malsch 2001]** Malsch, Thomas. "Naming the unnamable: Socionics or the sociological turn of/to distributed artificial intelligence." *Autonomous Agents and Multi-agent Systems* 4.3 (2001): 155-186.
+
+**\[Monroe 2015]** Monroe, Burt L., et al. "No! Formal theory, causal inference, and big data are not contradictory trends in political science." *PS*: *Political Science & Politics* 48.1 (2015): 71-74.
+
+**\[Watts 2017]** Watts, Duncan J. "Should social science be more solution-oriented?." *Nature Human Behavior* 1.1 (2017): 1-5.
