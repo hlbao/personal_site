@@ -19,7 +19,7 @@ content:
 design:
   view: 4
 ---
-Outside academia, I spend my spare time (though not much of it) primarily on the following kinds of stuff:
+Outside of academia, I spend my spare time (though not much of it) primarily on the following kinds of stuff:
 
 * Japanese anime. I'm a big fan of the [Dragon Ball](https://en.dragon-ball-official.com/). Because of the prior evolutionary biology background, I also enjoy [Parasyte](https://www.netflix.com/title/80191008) very much.
 * Sports. I love playing badminton, swimming, running, and strength training.
