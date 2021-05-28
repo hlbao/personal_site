@@ -15,7 +15,7 @@ links:
   - url: https://www.carsonhlbao.com/publication/cooperation/
     name: A post
   - url: https://www.sciencedirect.com/science/article/abs/pii/S037843711730938X?via%3Dihub
-    name: A psychological lab paper link
+    name: A paper on psychological lab experiments and simulation
   - url: https://www.overleaf.com/read/njkmbjpttfhg
     name: A significantly extended journal version link
 image:
