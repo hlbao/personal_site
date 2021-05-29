@@ -27,7 +27,7 @@ Interests:
   - Computational Social Sciences
   - Computational Communication and Social Media
   - Science of Science
-  - Innovation Diffusion
+  - Innovation Diffusion and Technology Adoption
   - Real-world Complex Adaptive Systems
 highlight_name: false
 email: baohlcs@gmail.com
