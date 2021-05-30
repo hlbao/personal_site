@@ -13,7 +13,7 @@ Classification (multiclass, multilabel, binary, non-balance...) might be the mos
 
 [4 Types of Classification Tasks in Machine Learning (non-deep learning)](https://machinelearningmastery.com/types-of-classification-in-machine-learning/)
 
-[A Review of Machine Learning Algorithms for Text-Documents Classification](https://d1wqtxts1xzle7.cloudfront.net/38147943/jait0101.pdf?1436514469=&response-content-disposition=inline%3B+filename%3DJournal_of_Advances_in_Information_Techn.pdf&Expires=1619384245&Signature=LUnye5OtHL9uVGCe-vADpS101rU8WQbdAQfBK791PujtLm3iyzwlHiWDDULTSXzWwqGiXxA6n2bvO52v3lPl9jHBs8TlLpyIMHwZW0hQ9F17dczQhrtnDVFGk4jr6t9CrJ~-FmWsXqzLVqnFFXNruAFaRgzulvIoVvqGQV2sEV-BkZ-T6S7sjQzY9y99zSjNr30OG5MiqjGnZO1VyIG60zyfl64-NbyRhv3~pHxaFpLwLI1Mm4qqzwCUFSfFXnhluB8jv2XUfvE~92gHlvIRd2QuWiqD5laRZ~RZNcWNp6CXL7ikjf47syLtR2HUJo3kj-UXZ5SP0ZjRfPCbJYdGKQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=6)
+[A Review of Machine Learning Algorithms for Text-Documents Classification](http://www.jait.us/uploadfile/2014/1223/20141223050800532.pdf)
 
 [An arxiv paper (Deep Learning-Based Text Classification: A Comprehensive Review)](https://arxiv.org/pdf/2004.03705.pdf)
 
