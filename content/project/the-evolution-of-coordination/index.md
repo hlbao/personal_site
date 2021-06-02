@@ -10,7 +10,7 @@ draft: false
 featured: false
 external_link: " "
 links:
-  - url: https://staffwiki.cs.mun.ca/~banzhaf/papers/ALIFE-2018_Cooperation.pdf
+  - url: https://direct.mit.edu/isal/proceedings/alife2018/30/436/99632
     name: A recent CS conference paper link
   - url: https://www.carsonhlbao.com/publication/cooperation/
     name: A post
