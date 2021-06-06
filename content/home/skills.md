@@ -20,7 +20,7 @@ feature:
   - description: 80%
     icon: keyboard
     icon_pack: fas
-    name: Data Science and Statistics
+    name: Data Science, Statistics, and Quantitative Methods
   - description: 90%
     icon: pen
     icon_pack: fas
