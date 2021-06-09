@@ -17,11 +17,12 @@ tags:
   - Computational Social Science
 links:
   - url: https://github.com/hlbao/evolutionofcommunities
-    name: An empirical study link and the open-source project link on GitHub
+    name: A data set of political behaviors on House bill (co)sponsorship and the
+      GitHub project link
 image:
   caption: ""
   focal_point: SMART
-  filename: "avatar"
+  filename: avatar
   preview_only: true
 url_code: ""
 ---
