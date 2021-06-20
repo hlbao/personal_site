@@ -15,10 +15,7 @@ url_slides: ""
 title: Opinion Propagation (Under Review)
 tags:
   - Computational Social Science
-links:
-  - url: https://github.com/hlbao/evolutionofcommunities
-    name: A data set of political behaviors on House bill (co)sponsorship and the
-      GitHub project link
+links: []
 image:
   caption: ""
   focal_point: SMART
