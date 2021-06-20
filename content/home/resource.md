@@ -19,4 +19,4 @@ content:
 design:
   view: 4
 ---
-* A **[data set](https://github.com/hlbao/evolutionofcommunities)** for the long-term sponsorship and co-sponsorship behaviors on House bills among senators.
+* A **[data set](https://github.com/hlbao/evolutionofcommunities)** for the long-term sponsorship and co-sponsorship political behaviors on House bills among senators.
