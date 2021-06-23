@@ -18,6 +18,9 @@ links:
     name: A paper on psychological lab experiments and simulation
   - url: https://www.overleaf.com/read/njkmbjpttfhg
     name: A significantly extended journal version link
+  - name: "Multiagent Systems in Social Simulation: Decisions, Learning, Trust, and
+      Cooperation"
+    url: https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:39d5dcd2-dc59-46e0-ae21-9929e062239d
 image:
   filename: wechatimg65.png
   focal_point: SMART
