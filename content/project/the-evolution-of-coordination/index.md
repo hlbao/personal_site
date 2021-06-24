@@ -20,7 +20,7 @@ links:
     name: A significantly extended journal version link
   - name: 'A manuscript "Multiagent Systems in Social Simulation: Decisions,
       Learning, Trust, and Cooperation"'
-    url: https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:39d5dcd2-dc59-46e0-ae21-9929e062239d
+    url: https://www.academia.edu/49356513/Multiagent_Systems_in_Social_Simulation_Decisions_Learning_Trust_and_Cooperation
 image:
   filename: wechatimg65.png
   focal_point: SMART
