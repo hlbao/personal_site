@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://github.com/hlbao
   - icon: edit
-    icon_pack: fab
+    icon_pack: fas
     link: https://michiganstate.academia.edu/HonglinCarsonBao
 organizations:
   - name: "NSF BEACON Center for the Study of Evolution in Action "
