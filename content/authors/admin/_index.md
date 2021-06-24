@@ -13,7 +13,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hlbao
-  - icon: academia
+  - icon: edit
     icon_pack: fab
     link: https://michiganstate.academia.edu/HonglinCarsonBao
 organizations:
