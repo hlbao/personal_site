@@ -22,11 +22,11 @@ main:
   - name: Featured Publications
     url: '#featured'
     weight: 60
-  - name: CV of Failures
-    url: '#failures'
-    weight: 70
   - name: Data, Tutorials & Resources
     url: '#resource'
+    weight: 70
+  - name: CV of Failures
+    url: '#failures'
     weight: 80
   - name: Misc
     url: '#misc'
