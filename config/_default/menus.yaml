@@ -25,7 +25,7 @@ main:
   - name: CV of Failures
     url: '#failures'
     weight: 70
-  - name: Data Sets & Tutorials
+  - name: Data, Tutorials & Resources
     url: '#resource'
     weight: 80
   - name: Misc
