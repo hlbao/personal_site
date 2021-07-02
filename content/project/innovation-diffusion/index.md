@@ -9,7 +9,8 @@ draft: false
 featured: false
 external_link: " "
 links:
-  - name: A related group discussion slide
+  - name: A related group discussion slide on Bass, epidemiological, agent-based,
+      and equation models
     url: https://www.dropbox.com/s/dahsd95bzpcz146/diffusion_honglin.pptx?dl=0
 image:
   filename: ""
