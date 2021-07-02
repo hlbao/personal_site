@@ -11,13 +11,14 @@ featured: false
 external_link: " "
 links:
   - url: https://direct.mit.edu/isal/proceedings/alife2018/30/436/99632
-    name: A recent CS conference (ALife) paper link
+    name: A recent CS conference (ALife) paper link on evolutionary agent simulation
+      with social learning and collective voting
   - url: https://www.carsonhlbao.com/publication/cooperation/
-    name: A post
+    name: A post giving a holistic view of the work
   - url: https://www.sciencedirect.com/science/article/abs/pii/S037843711730938X?via%3Dihub
-    name: A Physica A paper on psychological lab experiments and simulation
+    name: A journal paper (Physica A) on psychological lab experiments and simulation
   - url: https://www.overleaf.com/read/njkmbjpttfhg
-    name: A significantly extended journal version link
+    name: A significantly extended journal version link of the conference paper
   - name: 'A manuscript "Multiagent Systems in Social Simulation: Decisions,
       Learning, Trust, and Cooperation"'
     url: https://www.academia.edu/49356513/Multiagent_Systems_in_Social_Simulation_Decisions_Learning_Trust_and_Cooperation
