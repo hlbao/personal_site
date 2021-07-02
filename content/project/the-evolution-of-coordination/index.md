@@ -11,11 +11,11 @@ featured: false
 external_link: " "
 links:
   - url: https://direct.mit.edu/isal/proceedings/alife2018/30/436/99632
-    name: A recent CS conference paper link
+    name: A recent CS conference (ALife) paper link
   - url: https://www.carsonhlbao.com/publication/cooperation/
     name: A post
   - url: https://www.sciencedirect.com/science/article/abs/pii/S037843711730938X?via%3Dihub
-    name: A paper on psychological lab experiments and simulation
+    name: A Physica A paper on psychological lab experiments and simulation
   - url: https://www.overleaf.com/read/njkmbjpttfhg
     name: A significantly extended journal version link
   - name: 'A manuscript "Multiagent Systems in Social Simulation: Decisions,
