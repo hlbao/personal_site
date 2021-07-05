@@ -21,7 +21,9 @@ links:
     name: A significantly extended journal version link of the conference paper
   - name: 'An old manuscript "Multi-agent Social Simulation: Decisions, Learning,
       Trust, and Cooperation"'
-    url: https://www.academia.edu/49356513/Multiagent_Systems_in_Social_Simulation_Decisions_Learning_Trust_and_Cooperation
+    url: "
+      https://www.academia.edu/49558503/Multiagent_Systems_in_Social_Simulation\
+      _Decisions_Learning_Trust_and_Cooperation?source=swp_share"
 image:
   filename: wechatimg65.png
   focal_point: SMART
