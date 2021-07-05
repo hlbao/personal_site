@@ -19,8 +19,8 @@ links:
     name: A journal paper (Physica A) on psychological lab experiments and simulation
   - url: https://www.overleaf.com/read/njkmbjpttfhg
     name: A significantly extended journal version link of the conference paper
-  - name: 'A manuscript "Multiagent Systems in Social Simulation: Decisions,
-      Learning, Trust, and Cooperation"'
+  - name: 'An old manuscript "Multi-agent Social Simulation: Decisions, Learning,
+      Trust, and Cooperation"'
     url: https://www.academia.edu/49356513/Multiagent_Systems_in_Social_Simulation_Decisions_Learning_Trust_and_Cooperation
 image:
   filename: wechatimg65.png
