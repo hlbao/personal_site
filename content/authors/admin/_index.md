@@ -1,5 +1,5 @@
 ---
-title: "Honglin Carson Bao "
+title: "Honglin Bao "
 role: PhD Candidate, Computational Social Scientist, Adventurer
 avatar_filename: avatar
 bio: ""
@@ -35,7 +35,7 @@ Interests:
 highlight_name: false
 email: baohlcs@gmail.com
 ---
-Hi there! My name is Honglin Carson Bao (he/him/his). Welcome!
+Hi there! My name is Honglin Bao (he/him/his). Welcome!
 
 I have a multidisciplinary education background in mathematics, computer science, and economics. Now I am a Ph.D. candidate at [MSU & BEACON](https://beacon-center.org/). I work closely with [Dr. Winson Taiquan Peng](https://comartsci.msu.edu/our-people/taiquan-winson-peng) (Communication and Media), [Dr. Zachary Neal](https://www.zacharyneal.com/) (Psychology and Sociology), and Koza Chair Professor [Dr. Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/) (Computer Science).
 
