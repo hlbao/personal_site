@@ -1,6 +1,6 @@
 ---
 title: "Honglin Bao "
-role: PhD Candidate, Computational Social Scientist, Adventurer
+role: Computational Social Scientist
 avatar_filename: avatar
 bio: ""
 social:
