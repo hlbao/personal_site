@@ -19,6 +19,8 @@ content:
 design:
   view: 4
 ---
+
+
 Inspired by the Stockholm economist [Dr. Johannes Haushofer](https://www.uni-goettingen.de/de/document/download/bed2706fd34e29822004dbe29cd00bb5.pdf/Johannes_Haushofer_CV_of_Failures%5B1%5D.pdf), this section is my **CV OF FAILURES** – besides my accomplishments, I also talk about the papers that did not get accepted and the funding I did not get. I hope this idea can reduce survivorship bias in academia and relieve your (and my) "imposter syndrome" :)
 
 * I failed to get NSF funding with [my collaborator](https://broad.msu.edu/profile/nairanan/) at the management department, MSU business school. We intended to apply network analysis methods and evolutionary computing approaches to improve the robustness of supply chain networks.
