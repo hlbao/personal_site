@@ -22,7 +22,7 @@ organizations:
   - name: Michigan State University
     url: https://www.cse.msu.edu/
 superuser: true
-Research Interests:
+Interests:
   - Multiagent Systems and Agent-based Models
   - Social Networks
   - (Evolutionary) Game Theory
@@ -30,7 +30,7 @@ Research Interests:
   - Computational Social Sciences
   - Computational Communication and Social Media
   - Science of Science
-  - Innovation Diffusion and Technology Adoption
+  - Innovation Diffusion
   - Real-world Complex Adaptive Systems
 highlight_name: false
 email: baohlcs@gmail.com
