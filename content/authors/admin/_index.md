@@ -22,11 +22,11 @@ organizations:
   - name: Michigan State University
     url: https://www.cse.msu.edu/
 superuser: true
-Interests:
+Research Interests:
   - Multiagent Systems and Agent-based Models
   - Social Networks
   - (Evolutionary) Game Theory
-  - Machine Learning/NLP-driven Methodologies
+  - Machine Learning/NLP/Big Data-driven Methodologies
   - Computational Social Sciences
   - Computational Communication and Social Media
   - Science of Science
