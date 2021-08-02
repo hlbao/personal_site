@@ -12,7 +12,7 @@ date: 2021-03-31T00:18:49.656Z
 categories: []
 external_link: " "
 url_slides: ""
-title: Opinion Propagation (Under Revision)
+title: Opinion Dynamics (Under the 1st Revision)
 tags:
   - Computational Social Science
 links: []
