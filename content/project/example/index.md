@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: "As a leading researcher, I ask: How does the opinion propagate in
+summary: "As the lead researcher, I ask: How does the opinion propagate in
   social networks with sparse interactions between heterogeneous
   bounded-rational humans? Do sparse interaction and the open-endedness feature
   of social networks reinforce the echo chamber, opinion diversity, or
