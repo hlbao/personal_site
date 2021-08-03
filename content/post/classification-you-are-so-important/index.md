@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Classification (multiclass, multilabel, binary, unbalanced...) might be the most widely-used computing technique in computational social science problems, e.g., social media post classification and user auto-labeling. We can see two lines of approaches. One is the rule-based and machine learning method, e.g., kNN, Decision Trees, and Naive Bayes. The other is the deep network-based approach. There are many fancy deep network models like bert, GPT, transformer, and attention model. I find three excellent articles: 
+Classification (multiclass, multilabel, binary, imbalanced...) might be the most widely-used computing technique in computational social science problems, e.g., social media post classification and user auto-labeling. We can see two lines of approaches. One is the rule-based and machine learning method, e.g., kNN, Decision Trees, and Naive Bayes. The other is the deep network-based approach. There are many fancy deep network models like bert, GPT, transformer, and attention model. I find three excellent articles: 
 
 [4 Types of Classification Tasks in Machine Learning (non-deep learning)](https://machinelearningmastery.com/types-of-classification-in-machine-learning/)
 
