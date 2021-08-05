@@ -3,8 +3,8 @@ title: My notes when I read papers
 subtitle: ""
 date: 2021-04-12T20:10:52.647Z
 summary: my comments on the selected papers in a broad range of computational
-  social science -- the science of science, communication & media, social data,
-  networks, clever experiments, and so on...
+  social science -- the science of science, political communication & media,
+  social data, networks, clever field experiments, and so on...
 draft: false
 featured: false
 image:
