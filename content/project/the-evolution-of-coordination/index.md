@@ -22,6 +22,8 @@ links:
   - name: 'An old manuscript "Multi-agent Social Simulation: Decisions, Learning,
       Trust, and Cooperation"'
     url: https://www.academia.edu/49558503/Multiagent_Systems_in_Social_Simulation_Decisions_Learning_Trust_and_Cooperation
+  - name: https://drive.google.com/drive/folders/1a3qKraepJPhmcP6X4T4nurX-B6d0ZLjP?usp=sharing
+    url: poster and slides of a completed project on the evolution of cooperation
 image:
   filename: wechatimg65.png
   focal_point: SMART
