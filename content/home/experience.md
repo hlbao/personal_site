@@ -8,6 +8,7 @@ weight: 40
 title: Experience and Recent News
 subtitle: null
 ---
+* I will attend **[the Fourth Annual Politics and Computational Social Science (PaCSS) Conference](https://cssh.northeastern.edu/nulab/pacss/)** in August 2021 – a good venue for political communication research.
 * I will be at **[GECCO 2021](https://gecco-2021.sigevo.org/HomePage)**, one of the best CS conferences in the field of evolutionary computation. 
 * I am on several lectures/festivals at **[Summer Programs in Computational Social Science](https://sicss.io/)**, a highly informative event with many great names in the field, as always.
 * I will attend **[ICA 2021](https://www.icahdq.org/page/ICA2021)** this May. Looking forward to the talks about cutting-edge research in communication science.
