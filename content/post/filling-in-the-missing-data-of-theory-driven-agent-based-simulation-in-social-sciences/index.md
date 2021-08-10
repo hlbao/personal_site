@@ -30,7 +30,7 @@ This assertion is especially true now as we can deal with large dimensions of pa
 
 Currently, I am working towards a grounded research direction focusing on the **real-world issues in CSS through cross-fertilizing observational (e.g., digital trace data), theoretical (e.g., simulation), and experimental (e.g., virtual labs) studies** and overcoming the weakness of any single methodology component. I believe this way is a complete picture to do impactful CSS. After all, computation is a means to an end. The end has to be found in the formal social theories, social research methods and design, causal inference, insightful explanations even predictions, etc., which remain the main melody of CSS. They are not contradictory trends but complementary (Monroe 2015). I particularly love this clever comparison, according to [Jonathan J. H. Zhu, 祝建華](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en) at The City University of Hong Kong:
 
-> ***The algorithm is the admission ticket which is important; data is the story which is more important; social insight is the soul, which is the MOST important.***
+> ***The algorithm is the admission ticket which is important; data is the story which is more important; theory-centric social insight is the soul, which is the MOST important.***
 >
 > (Note: the original text in Chinese is "算法是入场券很重要，数据是故事更重要，理论是灵魂最重要。")
 
