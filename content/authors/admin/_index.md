@@ -28,7 +28,7 @@ Interests:
   - (Evolutionary) Game Theory
   - Machine Learning/NLP/Big Data-driven Methodologies
   - Computational Social Sciences
-  - Computational Communication and Social Media
+  - Social Media, Collective Behaviors, and Political Engagement
   - Science of Science
   - Innovation Diffusion
   - Real-world Complex Adaptive Systems
