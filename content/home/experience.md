@@ -8,6 +8,7 @@ weight: 40
 title: Experience and Recent News
 subtitle: null
 ---
+* I have been admitted to **[the 2021 summer school on data and algorithms for science, technology, and innovation studies](https://feb.kuleuven.be/drc/MSI/sti)**.
 * I will attend **[the Fourth Annual Politics and Computational Social Science (PaCSS) Conference](https://cssh.northeastern.edu/nulab/pacss/)** in August 2021 – a good venue for political communication research.
 * I will be at **[GECCO 2021](https://gecco-2021.sigevo.org/HomePage)**, one of the best CS conferences in the field of evolutionary computation. 
 * I am on several lectures/festivals at **[Summer Programs in Computational Social Science](https://sicss.io/)**, a highly informative event with many great names in the field, as always.
