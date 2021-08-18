@@ -9,7 +9,7 @@ authors:
   - Zachary Neal
   - Wolfgang Banzhaf
 author_notes: []
-publication: Under Revision
+publication: Under 2nd Review
 summary: ""
 url_dataset: ""
 url_project: ""
