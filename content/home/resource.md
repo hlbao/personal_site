@@ -22,6 +22,6 @@ design:
 I value open science. These are my commitments to it.
 
 * A **[data set](https://github.com/hlbao/evolutionofcommunities)** for the long-term sponsorship and co-sponsorship political behaviors on House bills among senators.
-* A **[text data set of political news](https://github.com/hlbao/classification_in_CSS/tree/main/smart_scraper/web_crawler)** that has been preprocessed and classified into multiple credibility-based categories.
+* A large-scale **[text data set of political news](https://github.com/hlbao/classification_in_CSS/tree/main/smart_scraper/web_crawler)** that has been preprocessed and classified into multiple credibility-based categories.
 * My **[paper notes and collection](https://www.carsonhlbao.com/post/my-random-notes-when-i-read-papers/)** in the field of computational social science, including political communication & media, the science of science, networks, social data, field experiments, and so forth.
-* The **[tutorial](https://github.com/hlbao/classification_in_CSS)** on scraping, processing, and classification of text-based digital trace data in Natural Language Processing and Computational Social Science ([why I do this](https://www.carsonhlbao.com/post/classification-you-are-so-important/)).
+* A **[tutorial](https://github.com/hlbao/classification_in_CSS)** on scraping, processing, and classification of text-based digital trace data in Natural Language Processing and Computational Social Science ([why I do this](https://www.carsonhlbao.com/post/classification-you-are-so-important/)).
