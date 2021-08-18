@@ -2,7 +2,7 @@
 widget: pages
 widget_id: RECENT-NEWS
 headless: true
-weight: 90
+weight: 70
 title: CV of Failures
 subtitle: ""
 content:
