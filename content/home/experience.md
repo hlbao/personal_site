@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience: null
 widget_id: Experience and Recent News
 headless: true
-weight: 40
+weight: 20
 title: Experience and Recent News
 subtitle: null
 ---
