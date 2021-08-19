@@ -26,7 +26,7 @@ Interests:
   - Methodology
   - Agent-based Models, Social Network Analysis, Game Theory, Machine Learning/NLP/Big Data, and Computational Social Sciences
   - Substantive Area
-  - Social Media, Collective Behaviors, Political Engagement, Innovation Diffusion, Organization, The Sociology of Science & Technology, and Real-world Complex Social Systems
+  - Social Media, Collective Behaviors, Political Engagement, Innovation Diffusion, Contagion, Organization, The Sociology of Science & Technology, and Real-world Complex Social Systems
 highlight_name: false
 email: baohlcs@gmail.com
 ---
