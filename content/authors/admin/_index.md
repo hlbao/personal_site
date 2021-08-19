@@ -23,7 +23,7 @@ organizations:
     url: https://www.cse.msu.edu/
 superuser: true
 Interests:
-  - Methodology - all around computational social science
+  - Methodology - all around Computational Social Science
   - Substantive Area - all around two aspects, Social Media/Networks and The Sociology of Science/Innovation/Technology
 highlight_name: false
 email: baohlcs@gmail.com
