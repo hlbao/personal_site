@@ -23,8 +23,10 @@ organizations:
     url: https://www.cse.msu.edu/
 superuser: true
 Interests:
-  - Methodology: Agent-based Models, Social Network Analysis, Game Theory, Machine Learning/NLP/Big Data, and Computational Social Sciences
-  - Substantive Area: Social Media, Collective Behaviors, Political Engagement, Innovation Diffusion, Organization, The Sociology of Science & Innovation, and Real-world Complex Social Systems
+  - Methodology
+  - Agent-based Models, Social Network Analysis, Game Theory, Machine Learning/NLP/Big Data, and Computational Social Sciences
+  - Substantive Area
+  - Social Media, Collective Behaviors, Political Engagement, Innovation Diffusion, Organization, The Sociology of Science & Technology, and Real-world Complex Social Systems
 highlight_name: false
 email: baohlcs@gmail.com
 ---
