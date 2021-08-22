@@ -24,7 +24,7 @@ organizations:
 superuser: true
 Interests:
   - Methodology - all around Computational Social Science
-  - Substantive Area - all around two aspects, Social Media/Networks and The Sociology of Science/Innovation/Technology
+  - Substantive Area - all around two aspects, Social Media and Networks; The Sociology of Science and Innovation
 highlight_name: false
 email: baohlcs@gmail.com
 ---
