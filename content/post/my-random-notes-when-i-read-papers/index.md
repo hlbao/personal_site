@@ -3,8 +3,9 @@ title: My notes when I read papers
 subtitle: ""
 date: 2021-04-12T20:10:52.647Z
 summary: my comments on the selected papers in a broad range of computational
-  social science -- the science of science, political communication & media,
-  social data, networks, clever field experiments, and so on...
+  social science -- the science of science, political engagement, health
+  communication, social data, media/networks, clever field experiments, and so
+  on...
 draft: false
 featured: false
 image:
@@ -16,7 +17,7 @@ Reading papers is my daily task. They build my social theory-centric insights an
 
 Major substantive topics:
 
-* ***Crisis Communication***
+* ***Health Communication***
 
 **[A semantic network analysis based on crisis communication context. Notes](https://docs.google.com/document/d/1RamB2Ivhjy4pipv1GjTR78imAP3ugftf6PkGEj4Mw4U/edit?usp=sharing)** on Zhao, Xinyan, and Hyun Jee Oh. "What fosters inter-organizational frame convergence: Examining a semantic network during the opioid crisis." *Public Relations Review* 47.3 (2021): 102042.
 
