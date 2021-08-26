@@ -1,5 +1,5 @@
 ---
-title: Causality and Quantitative Methods
+title: Quantitative Methods, Causal Inference, and Panel Data
 date: 2021-04-11T18:09:50.169Z
 summary: '"Causal Inference in Statistics: A Primer" by Judea Pearl and
   "Quantitative Social Science: An Introduction" by Kosuke Imai.'
@@ -16,3 +16,5 @@ The quantitative method is always my top-priority focus in research. Causal infe
 * [Distributions, tests, and redefined statistical significance](https://docs.google.com/document/d/1swNWVOIP1qN5d5OmbffDMGyxJ4WAHWYTVA_127kLkI4/edit?usp=sharing)[](https://docs.google.com/document/d/1MYgnp1jkPL-rf91MXIgmxAcV3ATz4bqPZMHIluGXo2s/edit?usp=sharing)[](https://docs.google.com/document/d/1MYgnp1jkPL-rf91MXIgmxAcV3ATz4bqPZMHIluGXo2s/edit?usp=sharing)
 * [Reconsidering observational data and its risks of spurious correlation and endogeneity](https://docs.google.com/document/d/1MYgnp1jkPL-rf91MXIgmxAcV3ATz4bqPZMHIluGXo2s/edit?usp=sharing)
 * **Review: Honestly, these two books are kind of entry-level, not very interesting.**
+
+A fascinating workshop hosted by political scientist [Yiqing Xu](https://yiqingxu.org/). Three afternoons (Aug 23, 25, 27 2021). A very clear discussion of causal inference using panel data. Should always recall the [slides](https://yiqingxu.org/teachings/talks/).
