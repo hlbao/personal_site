@@ -1,7 +1,8 @@
 ---
 title: Science of Science (On-going)
 date: 2021-03-31T00:21:29.316Z
-summary: ""
+summary: collaboration with Misha Teplitskiy at the School of Information,
+  University of Michigan.
 draft: false
 featured: false
 tags:
