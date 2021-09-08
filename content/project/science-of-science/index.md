@@ -7,7 +7,7 @@ summary: >-
   Information, University of Michigan. 
 
 
-  Consider the following: when you write papers, you will cite references because they inspire you, as [normative theory](https://en.wikipedia.org/wiki/Normative) states. You may have other references because they have rhetorical utility, as [social constructivists](https://en.wikipedia.org/wiki/Social_constructivism) assert. We study the sociology theories in science by posing the following question: What role do these two groups of references play?
+  Consider the following: when you write papers, you will cite references because they inspired you, as [normative theory](https://en.wikipedia.org/wiki/Normative) states. You may have other references because they have rhetorical utility, as [social constructivists](https://en.wikipedia.org/wiki/Social_constructivism) assert. We study the sociology theories in science by posing the following question: What role do these two groups of references play?
 draft: false
 featured: false
 tags:
