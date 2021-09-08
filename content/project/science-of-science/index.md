@@ -1,5 +1,5 @@
 ---
-title: Rhetorical of Science (On-going)
+title: Rhetoric of Science (On-going)
 date: 2021-03-31T00:21:29.316Z
 summary: >-
   in collaboration with [Misha
