@@ -8,8 +8,8 @@ summary: "When you write papers, you will cite references because they inspired
   As the lead researcher in collaboration with [Misha
   Teplitskiy](https://sites.google.com/view/teplitskiy) at the School of
   Information, University of Michigan, we study the sociology theories in
-  science by posing the following question: What role do these two groups of
-  references play?"
+  science by posing the following question: What roles do these two groups of
+  references play, respectively?"
 draft: false
 featured: false
 tags:
