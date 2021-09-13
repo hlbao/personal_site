@@ -3,9 +3,10 @@ title: Rhetoric of Science (On-going)
 date: 2021-03-31T00:21:29.316Z
 summary: "When you write papers, you will cite references because they inspired
   you, as [normative theory](https://en.wikipedia.org/wiki/Normative) states.
-  You may have other references because they have rhetorical utility, as [social
-  constructivists](https://en.wikipedia.org/wiki/Social_constructivism) assert.
-  As the lead researcher in collaboration with [Misha
+  You may have other references because they have rhetorical utilities, as
+  [](https://en.wikipedia.org/wiki/Social_constructivism)shown in [social
+  constructivism](https://en.wikipedia.org/wiki/Social_constructivism). As the
+  lead researcher in collaboration with [Misha
   Teplitskiy](https://sites.google.com/view/teplitskiy) at the School of
   Information, University of Michigan, we study the sociology theories in
   science by posing the following question: What roles do these two groups of
