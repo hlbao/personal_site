@@ -17,12 +17,6 @@ Reading papers is my daily task. They build my social theory-centric insights an
 
 Major substantive topics:
 
-* ***Health Communication***
-
-**[A semantic network analysis based on crisis communication context. Notes](https://docs.google.com/document/d/1RamB2Ivhjy4pipv1GjTR78imAP3ugftf6PkGEj4Mw4U/edit?usp=sharing)** on Zhao, Xinyan, and Hyun Jee Oh. "What fosters inter-organizational frame convergence: Examining a semantic network during the opioid crisis." *Public Relations Review* 47.3 (2021): 102042.
-
-**[Crisis communication and fact-checking. Notes](https://docs.google.com/document/d/1oK4KSeKuvHROM_SaGhWpJKQmKfM7kFuuTmdp5MaiqtI/edit?usp=sharing)** on Zhao, X., Tsang, S. J. (2021). Self-protection by fact-checking: How pandemic information seeking and verifying affect preventive behaviors. *Journal of Contingencies and Crisis Management*, 1– 14.
-
 * ***Political Communication, Social Media, Networks, and Collective Behaviors***
 
 **[An insightful cross-partisan survey study. Notes](https://docs.google.com/document/d/1quNK2bp-DmI8bXRx9fc4ay7ZZI83-yGne38iXTHSAlQ/edit?usp=sharing)** on Amsalem, E., Merkley, E., & Loewen, P. J. (2021). Does talking to the other side reduce inter-party hostility? Evidence from three studies. *Political Communication*, 1-18.
@@ -48,6 +42,8 @@ Major substantive topics:
 **[Weak ties. Notes](https://docs.google.com/document/d/1iEJisbx1SUmeFBFMRKi2SNXBpM0D74BcUHgpb7kIb74/edit?usp=sharing)** on Mukerjee, Subhayan, Tian Yang, and Sandra González-Bailón. "What counts as a weak tie? A comparison of filtering techniques for weighted networks." *A Comparison of Filtering Techniques for Weighted Networks* (April 8, 2019).
 
 * ***The Sociology of Science, Innovation, Technology, and Organization***
+
+**[Competitive network, spanning structural hole, and innovation. Notes](https://docs.google.com/document/d/1s6ANCx6LukNWzcOTkezlvlHzIbcE3G-Ss7a-nTkZ9fU/edit?usp=sharing)** on Thatchenkery, S., & Katila, R. (2021). Seeing what others miss: A competition network lens on product innovation. *Organization Science*.
 
 **[Embeddedness, networks, and economic sociology. Notes](https://docs.google.com/document/d/1FcbXztxZfHIdPMet8rKIBX4KyppPqoJkwaUcSVW48A8/edit?usp=sharing)** on Krippner, G. R., & Alvarez, A. S. (2007). Embeddedness and the intellectual projects of economic sociology. *Annual Review of Sociology*, 33, 219-240, and Uzzi, B. (1999). Embeddedness in the making of financial capital: How social relations and networks benefit firms seeking financing. *American Sociological Review*, 481-505.
 
@@ -82,3 +78,9 @@ Major substantive topics:
 **[An interesting data-driven model studying phase transition in social networks. We should revisit the classic threshold model by Granovetter. Notes](https://docs.google.com/document/d/1Vc8UKOTppwdZBAUaS9xqkFdZAluO4x64dLu7FxhRZM8/edit?usp=sharing)** on Xie, Jiarong, et al. "Detecting and modeling real percolation and phase transitions of information on social media." *Nature Human Behavior* (2021): 1-8.
 
 **[A good measurement is urgently needed for observational data. We should also focus on identifying the causal effects behind data. Notes](https://docs.google.com/document/d/1ow13NUuQppXpuYLdo6O31AO_cqjhXdX_JDJU8GK5HaM/edit?usp=sharing)** on the paper collection in [Nature special issue on computational social science](https://www.nature.com/collections/cadaddgige), 2021.
+
+* ***Health Communication***
+
+**[A semantic network analysis based on crisis communication context. Notes](https://docs.google.com/document/d/1RamB2Ivhjy4pipv1GjTR78imAP3ugftf6PkGEj4Mw4U/edit?usp=sharing)** on Zhao, Xinyan, and Hyun Jee Oh. "What fosters inter-organizational frame convergence: Examining a semantic network during the opioid crisis." *Public Relations Review* 47.3 (2021): 102042.
+
+**[Crisis communication and fact-checking. Notes](https://docs.google.com/document/d/1oK4KSeKuvHROM_SaGhWpJKQmKfM7kFuuTmdp5MaiqtI/edit?usp=sharing)** on Zhao, X., Tsang, S. J. (2021). Self-protection by fact-checking: How pandemic information seeking and verifying affect preventive behaviors. *Journal of Contingencies and Crisis Management*, 1– 14.
