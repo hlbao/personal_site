@@ -19,8 +19,6 @@ Major substantive topics:
 
 * ***The Sociology of Science, Innovation, Technology, and Organization***
 
-**[Does in-group favoritism outweigh the benefits of network externalities? Notes](https://docs.google.com/document/d/1rI0mfl2Hh5zFxzNVqQf_mkn05H85UhMjWybIVoib7lU/edit?usp=sharing)** on Laband, D. N., & Piette, M. J. (1994). Favoritism versus search for good papers: Empirical evidence regarding the behavior of journal editors. *Journal of Political Economy* and Brogaard, J., Engelberg, J., & Parsons, C. A. (2014). Networks and productivity: Causal evidence from editor rotations. *Journal of Financial Economics*, *111*(1), 251-270.
-
 **[Competitive network, spanning structural hole, and innovation. Notes](https://docs.google.com/document/d/1s6ANCx6LukNWzcOTkezlvlHzIbcE3G-Ss7a-nTkZ9fU/edit?usp=sharing)** on Thatchenkery, S., & Katila, R. (2021). Seeing what others miss: A competition network lens on product innovation. *Organization Science*.
 
 **[Embeddedness, networks, and economic sociology. Notes](https://docs.google.com/document/d/1FcbXztxZfHIdPMet8rKIBX4KyppPqoJkwaUcSVW48A8/edit?usp=sharing)** on Krippner, G. R., & Alvarez, A. S. (2007). Embeddedness and the intellectual projects of economic sociology. *Annual Review of Sociology*, 33, 219-240, and Uzzi, B. (1999). Embeddedness in the making of financial capital: How social relations and networks benefit firms seeking financing. *American Sociological Review*, 481-505.
