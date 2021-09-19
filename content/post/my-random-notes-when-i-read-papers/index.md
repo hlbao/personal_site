@@ -4,8 +4,8 @@ subtitle: ""
 date: 2021-04-12T20:10:52.647Z
 summary: my comments on the selected papers in a broad range of computational
   social science -- the science of science, political engagement, health
-  communication, social data, media/networks, clever field experiments, and so
-  on...
+  communication, social data, media and networks, clever field experiments,
+  causal inference, and so on...
 draft: false
 featured: false
 image:
