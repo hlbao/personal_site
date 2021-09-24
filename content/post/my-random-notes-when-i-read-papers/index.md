@@ -19,6 +19,8 @@ Major substantive topics:
 
 * ***Political Communication, Social Media, Networks, and Collective Behaviors***
 
+**[Don't blame technology. Notes](https://docs.google.com/document/d/1oMRVvrmDERy5dFXtkIxeH8wp2fqNt9t-zHIdEG3ygqo/edit?usp=sharing)** on The role of (social) media in political polarization: A systematic review, Emily Kubin and Christian von Sikorski, *Annals of the International Communication Association*. Taylor & Francis, September 2021.
+
 [**A very smart idea reforming the division of labor as a graph-coloring game. Notes** ](https://docs.google.com/document/d/1LPrw30Pj0DyztSbk8dlBVUV6ld4b6Ww0eCiWi7Uka4w/edit?usp=sharing)on Erikson, E., & Shirado, H. (2021). Networks, property, and the division of labor. *American Sociological Review*, *86*(4), 759-786.
 
 **[An insightful cross-partisan survey study. Notes](https://docs.google.com/document/d/1quNK2bp-DmI8bXRx9fc4ay7ZZI83-yGne38iXTHSAlQ/edit?usp=sharing)** on Amsalem, E., Merkley, E., & Loewen, P. J. (2021). Does talking to the other side reduce inter-party hostility? Evidence from three studies. *Political Communication*, 1-18.
