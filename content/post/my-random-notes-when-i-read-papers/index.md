@@ -19,7 +19,7 @@ Major substantive topics:
 
 * ***Political Communication, Social Media, Networks, and Collective Behaviors***
 
-**[Don't blame technology. Notes](https://docs.google.com/document/d/1oMRVvrmDERy5dFXtkIxeH8wp2fqNt9t-zHIdEG3ygqo/edit?usp=sharing)** on The role of (social) media in political polarization: A systematic review, Emily Kubin and Christian von Sikorski, *Annals of the International Communication Association*. Taylor & Francis, September 2021.
+**[Don't blame technology. Notes](https://docs.google.com/document/d/1oMRVvrmDERy5dFXtkIxeH8wp2fqNt9t-zHIdEG3ygqo/edit?usp=sharing)** on The role of (social) media in political polarization: A systematic review, Emily Kubin and Christian von Sikorski, *Annals of the International Communication Association*. Taylor & Francis, September 2021 and Chen, W., Pacheco, D., Yang, K. C., & Menczer, F. (2021). Neutral bots probe political bias on social media. *Nature Communications*, 12(1), 1-10.
 
 [**A very smart idea reforming the division of labor as a graph-coloring game. Notes** ](https://docs.google.com/document/d/1LPrw30Pj0DyztSbk8dlBVUV6ld4b6Ww0eCiWi7Uka4w/edit?usp=sharing)on Erikson, E., & Shirado, H. (2021). Networks, property, and the division of labor. *American Sociological Review*, *86*(4), 759-786.
 
