@@ -17,7 +17,9 @@ Reading papers is my daily task. They build my social theory-centric insights an
 
 Major substantive topics:
 
-* ***Political Communication, Social Media, Networks, and Collective Behaviors***
+* ***Political Communication, Social Media, Social Networks, and Collective Behaviors***
+
+**[A cool experiment with carefully chosen control variables relating to social network structure. Notes](https://docs.google.com/document/d/16kXKjtHlmrGXGzW0nMbCR_9MoZsGZXtGUjTBjMpdyHQ/edit?usp=sharing)** on Lu, J.G. (forthcoming). A social network perspective on the Bamboo Ceiling: Ethnic homophily explains why East Asians but not South Asians are underrepresented in leadership in multiethnic environments. *Journal of Personality and Social Psychology.*
 
 **[Don't blame technology. Notes](https://docs.google.com/document/d/1oMRVvrmDERy5dFXtkIxeH8wp2fqNt9t-zHIdEG3ygqo/edit?usp=sharing)** on The role of (social) media in political polarization: A systematic review, Emily Kubin and Christian von Sikorski, *Annals of the International Communication Association*. Taylor & Francis, September 2021 and Chen, W., Pacheco, D., Yang, K. C., & Menczer, F. (2021). Neutral bots probe political bias on social media. *Nature Communications*, 12(1), 1-10.
 
