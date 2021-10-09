@@ -21,6 +21,8 @@ Major substantive topics:
 
 **[A cool experiment with carefully chosen control variables relating to social network structure. Notes](https://docs.google.com/document/d/16kXKjtHlmrGXGzW0nMbCR_9MoZsGZXtGUjTBjMpdyHQ/edit?usp=sharing)** on Lu, J.G. (forthcoming). A social network perspective on the Bamboo Ceiling: Ethnic homophily explains why East Asians but not South Asians are underrepresented in leadership in multiethnic environments. *Journal of Personality and Social Psychology.*
 
+**[Entropy and the "Surprise" of the public political opinion. Notes](https://docs.google.com/document/d/1t-yuLtnvq4DmERmLztPZGh3xhvyJNLzZbfQg72-gD9Q/edit?usp=sharing)** on Camargo, C. Q., John, P., Margetts, H. Z., & Hale, S. A. (2021). Measuring the volatility of the political agenda in public opinion and news media. *Public Opinion Quarterly*.
+
 **[Don't blame technology. Notes](https://docs.google.com/document/d/1oMRVvrmDERy5dFXtkIxeH8wp2fqNt9t-zHIdEG3ygqo/edit?usp=sharing)** on The role of (social) media in political polarization: A systematic review, Emily Kubin and Christian von Sikorski, *Annals of the International Communication Association*. Taylor & Francis, September 2021 and Chen, W., Pacheco, D., Yang, K. C., & Menczer, F. (2021). Neutral bots probe political bias on social media. *Nature Communications*, 12(1), 1-10.
 
 [**A very smart idea reforming the division of labor as a graph-coloring game. Notes** ](https://docs.google.com/document/d/1LPrw30Pj0DyztSbk8dlBVUV6ld4b6Ww0eCiWi7Uka4w/edit?usp=sharing)on Erikson, E., & Shirado, H. (2021). Networks, property, and the division of labor. *American Sociological Review*, *86*(4), 759-786.
