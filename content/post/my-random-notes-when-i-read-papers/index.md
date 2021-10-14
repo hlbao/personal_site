@@ -19,6 +19,8 @@ Major substantive topics:
 
 * ***Political Communication, Social Media, Social Networks, and Collective Behaviors***
 
+**[Computational communication. Notes](https://docs.google.com/document/d/17IUv1D1CuAcPJxg4lQqrnNQZQwQ0UEp5gnGgsc-dNxQ/edit?usp=sharing)** on Praet, Stiene, et al. "Comparing automated content analysis methods to distinguish issue communication by political parties on Twitter" and Waldherr, Annie, et al. "Toward a stronger theoretical grounding of computational communication science: How macro frameworks shape our research agendas." *[The fourth issue of Computational Communication Research](https://computationalcommunication.org/ccr/issue/view/6)* (2021).
+
 **[A cool experiment with carefully chosen control variables relating to social network structure. Notes](https://docs.google.com/document/d/16kXKjtHlmrGXGzW0nMbCR_9MoZsGZXtGUjTBjMpdyHQ/edit?usp=sharing)** on Lu, J.G. (forthcoming). A social network perspective on the Bamboo Ceiling: Ethnic homophily explains why East Asians but not South Asians are underrepresented in leadership in multiethnic environments. *Journal of Personality and Social Psychology.*
 
 **[Entropy and the "Surprise" of the public political opinion. Notes](https://docs.google.com/document/d/1t-yuLtnvq4DmERmLztPZGh3xhvyJNLzZbfQg72-gD9Q/edit?usp=sharing)** on Camargo, C. Q., John, P., Margetts, H. Z., & Hale, S. A. (2021). Measuring the volatility of the political agenda in public opinion and news media. *Public Opinion Quarterly*.
