@@ -79,7 +79,7 @@ Major substantive topics:
 
 * ***Quantitative Methods and Data-driven Models*** 
 
-**[Segmented regression and quasi-experiment to control confounding. Notes](https://docs.google.com/document/d/1GoC73KviTeGjweXxlWOgomi8KaBx77NwplZW2ypfAX0/edit?usp=sharing)** on Yang, Longqi, et al. "The effects of remote work on collaboration among information workers." *Nature Human Behavior* (2021): 1-12.
+**[A natural experiment using a modified difference-in-differences (DiD) model. Notes](https://docs.google.com/document/d/1GoC73KviTeGjweXxlWOgomi8KaBx77NwplZW2ypfAX0/edit?usp=sharing)** on Yang, Longqi, et al. "The effects of remote work on collaboration among information workers." *Nature Human Behavior* (2021): 1-12.
 
 [**A beautiful statistical analysis of survey data. Notes** ](https://docs.google.com/document/d/1lL22ZQIyq5xGbCjojQlvqN2l45u0yVl1tpuM9oYPoFM/edit?usp=sharing)on D'Acunto, Francesco, Ulrike Malmendier, and Michael Weber. "Gender roles produce divergent economic expectations." *Proceedings of the National Academy of Sciences* 118.21 (2021).
 
