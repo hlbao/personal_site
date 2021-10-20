@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I'm leading a computational political communication project working with MSU communication and NCSU sociology. Details TBA -- aka until we submit a preprint :-).
+I'm leading a political communication project with MSU communication and NCSU sociology, playing with large-scale observational media data and causal inference. Details TBA -- aka until we submit a preprint :-).
