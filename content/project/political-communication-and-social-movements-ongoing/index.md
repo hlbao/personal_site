@@ -1,5 +1,5 @@
 ---
-title: Political Communication and Social Movements (On-going)
+title: Political Communication and Causal Inference (On-going)
 date: 2021-10-20T17:47:22.936Z
 summary: ""
 draft: false
