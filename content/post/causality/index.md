@@ -18,3 +18,5 @@ The quantitative method is always my top-priority focus in research. Causal infe
 * **Review: Honestly, these two books are kind of entry-level, not very interesting.**
 
 A fascinating workshop hosted by political scientist [Yiqing Xu](https://yiqingxu.org/). Three afternoons (Aug 23, 25, 27 2021). A very clear discussion of causal inference using panel data. Should always recall the [slides](https://yiqingxu.org/teachings/talks/).
+
+[A joint talk](https://drive.google.com/file/d/1xkFVirD6d_H80x8DqnSSbUkWofTb7IY7/view?usp=sharing) on causal inference (primarily DiD, PSM, and synthetic control) with [Siyuan Ma](https://siyuanma.org/) at MSU Communication.
