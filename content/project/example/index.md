@@ -12,7 +12,7 @@ date: 2021-03-31T00:18:49.656Z
 categories: []
 external_link: " "
 url_slides: ""
-title: Opinion Dynamics (Under Review)
+title: Opinion Dynamics (R&R)
 tags:
   - Computational Social Science
 links: []
