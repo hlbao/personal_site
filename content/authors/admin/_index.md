@@ -26,7 +26,7 @@ Interests:
 highlight_name: false
 email: baohlcs@gmail.com
 ---
-Hi there! My name is Honglin (Carson) Bao (he/him/his). Welcome!
+Hi there! My name is Honglin (Carson) Bao. Welcome!
 
 I have a multidisciplinary education background in mathematics, computer science, and economics. Now I research computational social science at [MSU & BEACON](https://beacon-center.org/). I work, loosely or closely, on some projects with [Dr. Winson Taiquan Peng](https://comartsci.msu.edu/our-people/taiquan-winson-peng) (Communication), [Dr. Zachary Neal](https://www.zacharyneal.com/) (Psychology), the Koza Chair [Dr. Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/) (Computer Science), and [Dr. Misha Teplitskiy](https://sites.google.com/view/teplitskiy) at the School of Information, U-Michigan, Ann Arbor (Yeah I value research collaboration).
 
