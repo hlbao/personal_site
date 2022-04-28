@@ -3,9 +3,7 @@ title: My notes when I read papers
 subtitle: ""
 date: 2021-04-12T20:10:52.647Z
 summary: my comments on the selected papers in a broad range of computational
-  social science -- the science of science, political engagement, health
-  communication, social data, media and networks, clever field experiments,
-  causal inference, and so on...
+  social science.
 draft: false
 featured: false
 image:
@@ -16,6 +14,34 @@ image:
 Reading papers is my daily task. They build my social theory-centric insights and methodological thinking. But I don't want to read too much into prior work because it might kill my creativity. Thus, I value the paper selection – I appreciate the work which really inspires me. I will regularly update this page to collect my reviews, comments, and random thoughts when I encounter these inspirational papers luckily. Feel free to contact me for any discussions – Random thoughts are not formal academic articles, so be tolerant of the format :)
 
 Major substantive topics:
+
+* ***The Sociology of Science, Innovation, Technology, and Organization***
+
+**[Competitive network, spanning structural hole, and innovation. Notes](https://docs.google.com/document/d/1s6ANCx6LukNWzcOTkezlvlHzIbcE3G-Ss7a-nTkZ9fU/edit?usp=sharing)** on Thatchenkery, S., & Katila, R. (2021). Seeing what others miss: A competition network lens on product innovation. *Organization Science*.
+
+**[Controlling unobserved confounding by converting it into measurable ones. Notes](https://docs.google.com/document/d/1nZqIDedZnVFDK9IsrckItnjrqgGhMmlnZ2O6hQgVxm8/edit?usp=sharing)** on Brembs, B. (2018). Prestigious science journals struggle to reach even average reliability. *Frontiers in Human Neuroscience*, 12, 37.
+
+**[Embeddedness, networks, and economic sociology. Notes](https://docs.google.com/document/d/1FcbXztxZfHIdPMet8rKIBX4KyppPqoJkwaUcSVW48A8/edit?usp=sharing)** on Krippner, G. R., & Alvarez, A. S. (2007). Embeddedness and the intellectual projects of economic sociology. *Annual Review of Sociology*, 33, 219-240, and Uzzi, B. (1999). Embeddedness in the making of financial capital: How social relations and networks benefit firms seeking financing. *American Sociological Review*, 481-505.
+
+**[How to measure innovation? All these papers are following the same idea "moving a larger distance between related content." Notes](https://docs.google.com/document/d/1dEt1CA1rZ2eM9h1LcoBCGd4u7W5oixQfdl5MGGCrYrg/edit?usp=sharing)** on the series of work by Mikko Packalen (Age and the trying out of new ideas, NIH funding and the pursuit of edge science, and Edge factors: Scientific frontier positions of nations), Wu, Lingfei, et al. "Large teams develop and small teams disrupt science and technology." *Nature* (2019), Zeng, An, et al. "Fresh teams are associated with original and multidisciplinary research." *Nature Human Behavior* (2021), Soda, Giuseppe Beppe, et al. "Networks, creativity, and time: Staying creative through brokerage and network rejuvenation." *Academy of Management Journal* (2021), Uzzi, Brian, et al. "Atypical combinations and scientific impact." *Science* (2013), and Toubia, Olivier, et al. "How quantifying the shape of stories predicts their success." *Proceedings of the National Academy of Sciences* (2021).
+
+**[A very comprehensive sci-sci study considering all confounding factors. Notes](https://docs.google.com/document/d/17vcigoQT90dL8PmPHfGTKa7eLl6ydjfpqg8Fmoy0Ihk/edit?usp=sharing)** on Park, M., Leahey, E., & Funk, R. (2021). Dynamics of disruption in science and technology. *arXiv preprint arXiv:2106.11184*.
+
+**[A complex contagion theoretical model + simulated counterfactuals alongside actual field experiments for agricultural innovation diffusion. Notes](https://docs.google.com/document/d/1O8JZeXH7VsOb0LyiK7_E_g56rUbJoFw5SNpGFHFpkd4/edit?usp=sharing)** on Beaman, Lori, et al. "Can network theory-based targeting increase technology adoption?." *American Economic Review* 111.6 (2021): 1918-43.
+
+**[An interesting quasi-experiment in business venturing. Notes](https://docs.google.com/document/d/1lNOe-nQ1J9YL45Agkb-8EWy10RQiOHPifXhSfkEIFZI/edit?usp=sharing)** on Cheng, Zhiming, et al. "Childhood adversity and the propensity for entrepreneurship: A quasi-experimental study of the Great Chinese Famine." *Journal of Business Venturing* 36.1 (2021): 106063.
+
+**[Networks in the general sense (human capital and market). Notes](https://docs.google.com/document/d/1d48_RqVz-7pBdyerMhx5VZUcPwSaS6G-RYBY1RBDdGE/edit?usp=sharing)** on Leonardi, Paul, and Noshir Contractor. "Better people analytics." *Harvard Business Review* 96.6 (2018): 70-81, and Jacobs, Abigail Z., and Duncan J. Watts. "A large-scale comparative study of informal social networks in firms." *Management Science* (2021).
+
+**[Normative VS Strategic behaviors from a theory-driven perspective. Notes](https://docs.google.com/document/d/1Fw07exF-QZers14kFyN-97f4A_fBoY1qf6vR0PnCtgQ/edit?usp=sharing)** on Alberto Baccini, and Eugenio Petrovich. "Normative versus strategic accounts of acknowledgment data: The case of the top-five journals of economics." *arXiv:2105.12988v2*, and Peng, Tai‐Quan, and Jonathan JH Zhu. "Where you publish matters most: A multilevel analysis of factors affecting citations of internet studies." *Journal of the American Society for Information Science and Technology* 63.9 (2012): 1789-1803.
+
+**[Knowledge module or playing with scientometric statistics. Only big data is not the solution to computational social science problems. Notes](https://docs.google.com/document/d/12j9L1VLTzxrCSpOkngMbhpQWMpoAxI6SqwxOiq05x1w/edit?usp=sharing)** on Weis, J.W., Jacobson, J.M. Learning on knowledge graph dynamics provides an early warning of impactful research. *Nature Biotechnology* (2021), Cassidy R. Sugimoto. Scientific success by numbers. *Nature Book Reviews* (2021), Watts, Duncan J. "Should social science be more solution-oriented?." *Nature Human Behavior* 1.1 (2017): 1-5, and Hilbert, Martin, et al. "Computational communication science: A methodological catalyzer for a maturing discipline." *International Journal of Communication* (2019).
+
+**[Misinformation in the Science of Science. Notes](https://docs.google.com/document/d/1sT-oseC9EVJUbXNXmLZn2tWmftyoFkYumTtr-7voH4A/edit?usp=sharing)** on West, Jevin D., and Carl T. Bergstrom. "Misinformation in and about science." *Proceedings of the National Academy of Sciences* 118.15 (2021).
+
+**[The role of discussion in scientific productivity. Notes](https://docs.google.com/document/d/1tZik2EL_YxshCLdMJN3BtBK-6H-kTgggsb3xs8GYTqE/edit?usp=sharing)** on Rose, Michael E., Co-Pierre Georg, and Daniel C. Opolot. "Discussants." *Max Planck Institute for Innovation & Competition Research Paper* 20-19 (2020).
+
+**[A new representation of knowledge: The edges between different fields. Notes](https://docs.google.com/document/d/1zx7mq7K8yH5Sadv8WLZN02P5718lCyMH_-BkxFQhaek/edit?usp=sharing)** on Peng, Hao, et al. "Neural embeddings of scholarly periodicals reveal complex disciplinary organizations." *Science Advances* 7.17 (2021): eabb9004.
 
 * ***Political Communication, Social Media, Social Networks, and Collective Behaviors***
 
@@ -52,34 +78,6 @@ Major substantive topics:
 **[Different behaviors (retweet, comment, etc.) on social media. Notes](https://docs.google.com/document/d/1BhMzVBUErS6z85fTkz5CQmrlDmsoaH3rlSQYuOaqges/edit?usp=sharing)** on Shugars, S., Gitomer, A., McCabe, S., Gallagher, R. J., Joseph, K., Grinberg, N., Doroshenko, L., Foucault Welles, B., & Lazer, D. (2021). Pandemics, protests, and publics: Demographic activity and engagement on Twitter in 2020. *Journal of Quantitative Description*: *Digital Media*, 1.
 
 **[Weak ties. Notes](https://docs.google.com/document/d/1iEJisbx1SUmeFBFMRKi2SNXBpM0D74BcUHgpb7kIb74/edit?usp=sharing)** on Mukerjee, Subhayan, Tian Yang, and Sandra González-Bailón. "What counts as a weak tie? A comparison of filtering techniques for weighted networks." *A Comparison of Filtering Techniques for Weighted Networks* (April 8, 2019).
-
-* ***The Sociology of Science, Innovation, Technology, and Organization***
-
-**[Competitive network, spanning structural hole, and innovation. Notes](https://docs.google.com/document/d/1s6ANCx6LukNWzcOTkezlvlHzIbcE3G-Ss7a-nTkZ9fU/edit?usp=sharing)** on Thatchenkery, S., & Katila, R. (2021). Seeing what others miss: A competition network lens on product innovation. *Organization Science*.
-
-**[Controlling unobserved confounding by converting it into measurable ones. Notes](https://docs.google.com/document/d/1nZqIDedZnVFDK9IsrckItnjrqgGhMmlnZ2O6hQgVxm8/edit?usp=sharing)** on Brembs, B. (2018). Prestigious science journals struggle to reach even average reliability. *Frontiers in Human Neuroscience*, 12, 37.
-
-**[Embeddedness, networks, and economic sociology. Notes](https://docs.google.com/document/d/1FcbXztxZfHIdPMet8rKIBX4KyppPqoJkwaUcSVW48A8/edit?usp=sharing)** on Krippner, G. R., & Alvarez, A. S. (2007). Embeddedness and the intellectual projects of economic sociology. *Annual Review of Sociology*, 33, 219-240, and Uzzi, B. (1999). Embeddedness in the making of financial capital: How social relations and networks benefit firms seeking financing. *American Sociological Review*, 481-505.
-
-**[How to measure innovation? All these papers are following the same idea "moving a larger distance between related content." Notes](https://docs.google.com/document/d/1dEt1CA1rZ2eM9h1LcoBCGd4u7W5oixQfdl5MGGCrYrg/edit?usp=sharing)** on the series of work by Mikko Packalen (Age and the trying out of new ideas, NIH funding and the pursuit of edge science, and Edge factors: Scientific frontier positions of nations), Wu, Lingfei, et al. "Large teams develop and small teams disrupt science and technology." *Nature* (2019), Zeng, An, et al. "Fresh teams are associated with original and multidisciplinary research." *Nature Human Behavior* (2021), Soda, Giuseppe Beppe, et al. "Networks, creativity, and time: Staying creative through brokerage and network rejuvenation." *Academy of Management Journal* (2021), Uzzi, Brian, et al. "Atypical combinations and scientific impact." *Science* (2013), and Toubia, Olivier, et al. "How quantifying the shape of stories predicts their success." *Proceedings of the National Academy of Sciences* (2021).
-
-**[A very comprehensive sci-sci study considering all confounding factors. Notes](https://docs.google.com/document/d/17vcigoQT90dL8PmPHfGTKa7eLl6ydjfpqg8Fmoy0Ihk/edit?usp=sharing)** on Park, M., Leahey, E., & Funk, R. (2021). Dynamics of disruption in science and technology. *arXiv preprint arXiv:2106.11184*.
-
-**[A complex contagion theoretical model + simulated counterfactuals alongside actual field experiments for agricultural innovation diffusion. Notes](https://docs.google.com/document/d/1O8JZeXH7VsOb0LyiK7_E_g56rUbJoFw5SNpGFHFpkd4/edit?usp=sharing)** on Beaman, Lori, et al. "Can network theory-based targeting increase technology adoption?." *American Economic Review* 111.6 (2021): 1918-43.
-
-**[An interesting quasi-experiment in business venturing. Notes](https://docs.google.com/document/d/1lNOe-nQ1J9YL45Agkb-8EWy10RQiOHPifXhSfkEIFZI/edit?usp=sharing)** on Cheng, Zhiming, et al. "Childhood adversity and the propensity for entrepreneurship: A quasi-experimental study of the Great Chinese Famine." *Journal of Business Venturing* 36.1 (2021): 106063.
-
-**[Networks in the general sense (human capital and market). Notes](https://docs.google.com/document/d/1d48_RqVz-7pBdyerMhx5VZUcPwSaS6G-RYBY1RBDdGE/edit?usp=sharing)** on Leonardi, Paul, and Noshir Contractor. "Better people analytics." *Harvard Business Review* 96.6 (2018): 70-81, and Jacobs, Abigail Z., and Duncan J. Watts. "A large-scale comparative study of informal social networks in firms." *Management Science* (2021).
-
-**[Normative VS Strategic behaviors from a theory-driven perspective. Notes](https://docs.google.com/document/d/1Fw07exF-QZers14kFyN-97f4A_fBoY1qf6vR0PnCtgQ/edit?usp=sharing)** on Alberto Baccini, and Eugenio Petrovich. "Normative versus strategic accounts of acknowledgment data: The case of the top-five journals of economics." *arXiv:2105.12988v2*, and Peng, Tai‐Quan, and Jonathan JH Zhu. "Where you publish matters most: A multilevel analysis of factors affecting citations of internet studies." *Journal of the American Society for Information Science and Technology* 63.9 (2012): 1789-1803.
-
-**[Knowledge module or playing with scientometric statistics. Only big data is not the solution to computational social science problems. Notes](https://docs.google.com/document/d/12j9L1VLTzxrCSpOkngMbhpQWMpoAxI6SqwxOiq05x1w/edit?usp=sharing)** on Weis, J.W., Jacobson, J.M. Learning on knowledge graph dynamics provides an early warning of impactful research. *Nature Biotechnology* (2021), Cassidy R. Sugimoto. Scientific success by numbers. *Nature Book Reviews* (2021), Watts, Duncan J. "Should social science be more solution-oriented?." *Nature Human Behavior* 1.1 (2017): 1-5, and Hilbert, Martin, et al. "Computational communication science: A methodological catalyzer for a maturing discipline." *International Journal of Communication* (2019).
-
-**[Misinformation in the Science of Science. Notes](https://docs.google.com/document/d/1sT-oseC9EVJUbXNXmLZn2tWmftyoFkYumTtr-7voH4A/edit?usp=sharing)** on West, Jevin D., and Carl T. Bergstrom. "Misinformation in and about science." *Proceedings of the National Academy of Sciences* 118.15 (2021).
-
-**[The role of discussion in scientific productivity. Notes](https://docs.google.com/document/d/1tZik2EL_YxshCLdMJN3BtBK-6H-kTgggsb3xs8GYTqE/edit?usp=sharing)** on Rose, Michael E., Co-Pierre Georg, and Daniel C. Opolot. "Discussants." *Max Planck Institute for Innovation & Competition Research Paper* 20-19 (2020).
-
-**[A new representation of knowledge: The edges between different fields. Notes](https://docs.google.com/document/d/1zx7mq7K8yH5Sadv8WLZN02P5718lCyMH_-BkxFQhaek/edit?usp=sharing)** on Peng, Hao, et al. "Neural embeddings of scholarly periodicals reveal complex disciplinary organizations." *Science Advances* 7.17 (2021): eabb9004.
 
 * ***Quantitative Methods and Data-driven Models*** 
 
