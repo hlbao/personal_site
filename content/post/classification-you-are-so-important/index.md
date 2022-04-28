@@ -2,7 +2,7 @@
 title: "Classification: You are so important!"
 date: 2021-04-25T14:19:17.069Z
 summary: text-based digital trace data scraping, processing, and classification
-  in computational social science and political communication
+  in computational social science
 draft: false
 featured: false
 image:
