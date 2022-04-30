@@ -26,7 +26,7 @@ Interests:
 highlight_name: false
 email: baohlcs@gmail.com
 ---
-Hi there! My name is Honglin (Carson) Bao. I go by Honglin, and my pronunciation is he/him.
+Hi there! My name is Honglin (Carson) Bao. I go by Honglin - 虹霖, and my pronunciation is he/him.
 
 I have a multidisciplinary education background in mathematics, computer science, economics, and evolutionary biology. In Fall 2022, I will be moving to the Organization and Behavior Unit at Harvard Business School, working closely with [Dr. Anjali M. Bhatt](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=656900). I research Organization Science and Cultural Dynamics from the perspective of complex adaptive systems. I employ a variety of quantitative methods in my research, including formal models, big data, machine learning, network analysis, and causal inference.
 
