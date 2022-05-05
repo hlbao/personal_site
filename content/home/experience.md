@@ -2,7 +2,7 @@
 widget: pages
 date_format: Jan 2006
 experience: null
-widget_id: RECENT-NEWS
+widget_id: Recent News
 headless: true
 weight: 20
 title: Recent News
