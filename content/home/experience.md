@@ -1,5 +1,5 @@
 ---
-widget: Recent News
+widget: pages
 date_format: Jan 2006
 experience: null
 widget_id: Recent News
