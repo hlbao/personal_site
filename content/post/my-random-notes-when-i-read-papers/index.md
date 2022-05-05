@@ -1,5 +1,5 @@
 ---
-title: My notes when I read papers
+title: My paper review
 subtitle: ""
 date: 2021-04-12T20:10:52.647Z
 summary: my comments on the selected papers in a broad range of computational
@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Reading papers is my daily task. They build my social theory-centric insights and methodological thinking. But I don't want to read too much into prior work because it might kill my creativity. Thus, I value the paper selection – I appreciate the work which really inspires me. I will regularly update this page to collect my reviews, comments, and random thoughts when I encounter these inspirational papers luckily. Feel free to contact me for any discussions – Random thoughts are not formal academic articles, so be tolerant of the format :)
+Reading papers is my daily thing. They build my social theory-centric insights and methodological thinking. But I don't want to read too much into prior work because it might kill my creativity. Thus, I value the paper selection – I appreciate the work which really inspires me. I will regularly update this page to collect my reviews, comments, and random thoughts when I encounter these inspirational papers luckily. Feel free to contact me for any discussions – Random thoughts are not formal academic articles, so be tolerant of the format :)
 
 Major substantive topics:
 
