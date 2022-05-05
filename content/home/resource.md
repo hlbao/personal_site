@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: resources
+widget_id: resource
 headless: true
 weight: 50
 title: Data Sets, Tutorials, and Useful Resources
