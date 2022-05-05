@@ -1,11 +1,11 @@
 ---
-widget: experience
+widget: recent
 date_format: Jan 2006
 experience: null
 widget_id: Recent News
 headless: true
 weight: 20
-title: Experience and Recent News
+title: Recent News
 subtitle: null
 ---
 * [A joint talk](https://drive.google.com/file/d/1xkFVirD6d_H80x8DqnSSbUkWofTb7IY7/view?usp=sharing) on causal inference with [Siyuan Ma](https://siyuanma.org/), Feb 2022.
