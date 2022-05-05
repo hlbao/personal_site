@@ -25,12 +25,9 @@ main:
   - name: CV of Failures
     url: '#failures'
     weight: 70
-  - name: Skills
-    url: '#skills'
-    weight: 80
   - name: Misc
     url: '#misc'
-    weight: 90
+    weight: 80
     
 
 
