@@ -1,10 +1,9 @@
 ---
 abstract: >-
   Regarding the evolution of cooperation, more generally, agent-based social
-  simulation, I have published several papers in decent computer science
-  conferences and interdisciplinary journals. I studied the evolution of
-  altruism in a social network/population through reinforcement learning, group
-  decision-making, social learning, and reputation-based behavioral regulation:
+  simulation, I studied the evolution of altruism in a social network/population
+  through reinforcement learning, group decision-making, social learning, and
+  reputation-based behavioral regulation:
 
 
   -- with social roles and unequal payoff sharing to study the origins of inequality;
@@ -14,9 +13,6 @@ abstract: >-
 
 
   -- with psychological lab experiments to investigate real-world human behaviors.
-
-
-  A sample publication is listed below:
 slides: ""
 url_pdf: ""
 publication_types:
@@ -57,7 +53,7 @@ Many mechanisms can be used to study cooperation: Agents can vote (collective de
 
 OK, there are so many mechanisms and numerous papers. Nevertheless, what mechanism is the most effective? How to reduce computation complexity and resources of model implementation? (In theory, it is called the "curse of dimensionality." In practice, think about training 10000 agents...) Can these mechanisms be applied in all situations or not? What is the advantage/disadvantage/scope of different mechanisms? The computational issues in game theory have attracted not only computer scientists but also social scientists (economists primarily) and formed a new interdisciplinary field called "[economics and computation](https://www.microsoft.com/en-us/research/theme/economics-and-computation/)."
 
-Regarding this topic, the evolution of cooperation, or more generally, agent-based social simulation, I have undertaken profound studies and have ***[published several papers](https://scholar.google.com/citations?user=pSdfiCYAAAAJ&hl=en)*** in decent computer science conferences and interdisciplinary journals in the past few years since my college. 
+Some of my works are [here](https://scholar.google.com/citations?user=pSdfiCYAAAAJ&hl=en)
 
 * Computer scientists prefer to publish their work in conference proceedings. This unusual norm is different from other subjects.
 * Economists study social norms and collective behaviors differently from the computer simulation community. I personally love the methods adopted by economists and game theorists more though... See [this paper focusing on social identity and group behavior published by the Annual Review of Economics](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-091619-032800).
