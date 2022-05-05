@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: RECENT-NEWS
+widget_id: resources
 headless: true
-weight: 60
+weight: 50
 title: Data Sets, Tutorials, and Useful Resources
 subtitle: ""
 content:
