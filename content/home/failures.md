@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: RECENT-NEWS
+widget_id: failures
 headless: true
 weight: 60
 title: CV of Failures
