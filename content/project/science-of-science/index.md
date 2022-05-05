@@ -5,8 +5,8 @@ summary: "When you write papers, you will cite references because they inspired
   you, as [normative theory](https://en.wikipedia.org/wiki/Normative) states.
   You may have other references because they have rhetorical utilities, as
   [](https://en.wikipedia.org/wiki/Social_constructivism)shown in [social
-  constructivism](https://en.wikipedia.org/wiki/Social_constructivism). As the
-  lead researcher in collaboration with [Prof. Misha
+  constructivism](https://en.wikipedia.org/wiki/Social_constructivism). In
+  collaboration with [Misha
   Teplitskiy](https://sites.google.com/view/teplitskiy) at the School of
   Information, University of Michigan, we study the sociological theories in
   science by posing the following question: What roles do these two groups of
