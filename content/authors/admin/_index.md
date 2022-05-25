@@ -32,4 +32,4 @@ I have a multidisciplinary education background in mathematics, computer science
 
 Prior to that, I spent several wonderful years in Michigan. I work with [Dr. Misha Teplitskiy](https://sites.google.com/view/teplitskiy) at the School of Information, U-Michigan, Ann Arbor, on Sociology of Science and Innovation. I work on several formal models studying the collective emergent norms on networks with [Dr. Zachary Neal](https://www.zacharyneal.com/) (MSU Psychology) and the Koza Chair [Dr. Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/) (MSU Computer Science). I also work with [Dr. Winson Taiquan Peng](https://comartsci.msu.edu/our-people/taiquan-winson-peng) (MSU Communication) on big data-driven social media studies and computational social science.
 
-I am active in research collaboration on the following topics. Contact me: **baohlcs@gmail.com**
+I am active in research collaboration on the following topics. Contact me: **baohlcs at gmail.com**
