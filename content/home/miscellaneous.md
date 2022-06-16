@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Miscellaneous
+widget_id: miscellaneous
 headless: true
 weight: 70
 title: Miscellaneous
@@ -20,4 +20,4 @@ content:
 design:
   view: 4
 ---
-I have some very cool tattoos
+I have some very cool tattoos.
