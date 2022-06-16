@@ -23,7 +23,7 @@ main:
     url: '#failures'
     weight: 60
   - name: Miscellaneous
-    url: '#miscellaneous'
+    url: '#misc'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
