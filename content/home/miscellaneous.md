@@ -2,7 +2,7 @@
 widget: pages
 widget_id: misc
 headless: true
-weight: 70
+weight: 80
 title: Miscellaneous
 subtitle: ""
 active: true
