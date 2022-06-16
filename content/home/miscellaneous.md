@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: miscellaneous
+widget_id: misc
 headless: true
 weight: 70
 title: Miscellaneous
@@ -20,4 +20,4 @@ content:
 design:
   view: 4
 ---
-I have some very cool tattoos; one of my favorites is **[this piece](https://www.dropbox.com/s/g2midsxj7ft6u6g/tattoo.png?dl=0)**. I dedicated myself to volunteering with LGBTQ public health in China for many years.
+I have some very cool tattoos; one of my favorites is **[this piece](https://www.dropbox.com/s/g2midsxj7ft6u6g/tattoo.png?dl=0)**. I dedicated many years to volunteering with LGBTQ public health in China.
