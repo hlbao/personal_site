@@ -2,7 +2,7 @@
 widget: pages
 widget_id: failures
 headless: true
-weight: 60
+weight: 70
 title: CV of Failures
 subtitle: ""
 content:
