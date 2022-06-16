@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: misc
+widget_id: miscellaneous
 headless: true
 weight: 80
 title: Miscellaneous
