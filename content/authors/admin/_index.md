@@ -21,8 +21,7 @@ organizations:
 superuser: true
 Interests:
   - Methodology - all around Computational Social Science
-  - Substantive Area - Sociology of Organization & Innovation, Complex Adaptive
-    Systems
+  - Substantive Area - Sociology of Organization & Innovation, Complex System
 highlight_name: false
 email: baohlcs@gmail.com
 ---
