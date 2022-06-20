@@ -55,4 +55,4 @@ OK, there are so many mechanisms and numerous papers. Nevertheless, what mechani
 
 Some of my works are [here](https://scholar.google.com/citations?user=pSdfiCYAAAAJ&hl=en)
 
-Note -- Computer scientists prefer to publish their work in conference proceedings. This unusual norm is different from other subjects.
+Note -- Computer scientists prefer to publish their work in conference proceedings. This unusual norm is different from other fields.
