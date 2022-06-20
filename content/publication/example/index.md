@@ -1,19 +1,5 @@
 ---
-abstract: "Existing simulation models on opinion dynamics rarely study limited
-  information accessibility, sparse interactions, and the coevolution of opinion
-  and an open-ended structure. In this paper, we propose the Sparse
-  COevolutionary Open-Ended (SCOOE) model. We address the sparse interaction
-  limitation through extrinsic collective interaction and intrinsic observation
-  based on incomplete neighborhood information. We also consider the coevolution
-  of opinion and open-ended structure by studying structure-opinion co-dynamics
-  when dissidents are leaving and when newcomers with novel opinions are
-  joining. From an opinion dynamics perspective, we find that the proposed
-  mechanisms effectively form lean and fast decision strategies to reduce
-  conflicts under uncertainty. The model is robust in boosting and enhancing a
-  global consensus with only small odds of extreme results. The structure
-  evolves toward a small-world network. We find that an emergent dialectic
-  relationship exists between community segregation and community cohesion
-  viewed from a structural dynamics perspective. "
+abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
