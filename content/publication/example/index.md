@@ -9,7 +9,7 @@ authors:
   - Zachary Neal
   - Wolfgang Banzhaf
 author_notes: []
-publication: Forthcoming in Complex & Intelligent Systems
+publication: Complex & Intelligent Systems
 summary: ""
 url_dataset: ""
 url_project: ""
