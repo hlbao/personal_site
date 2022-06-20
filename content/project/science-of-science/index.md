@@ -8,9 +8,9 @@ summary: "When you write papers, you will cite references because they inspire
   constructivism](https://en.wikipedia.org/wiki/Social_constructivism). In
   collaboration with [Misha
   Teplitskiy](https://sites.google.com/view/teplitskiy) at the School of
-  Information, University of Michigan, we study the sociological theories in
-  science by posing the following question: What roles do these two groups of
-  references play, respectively?"
+  Information, University of Michigan, we study sociological theories in science
+  by posing the following question: What roles do these two groups of references
+  play, respectively?"
 draft: false
 featured: false
 tags:
