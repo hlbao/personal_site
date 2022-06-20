@@ -27,7 +27,7 @@ image:
   focal_point: ""
   preview_only: true
   filename: avatar
-date: 2021-04-01T00:55:09.956Z
+date: 2022-06-20T15:29:50.741Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
