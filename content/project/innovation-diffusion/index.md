@@ -10,7 +10,7 @@ featured: false
 external_link: " "
 links:
   - name: A slide on the Bass, cascade, epidemiological, agent vs. equation-based,
-      and innovation vs. media diffusion models
+      and innovation vs. social media diffusion models
     url: https://www.dropbox.com/s/dahsd95bzpcz146/diffusion_honglin.pptx?dl=0
 image:
   filename: ""
