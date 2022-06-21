@@ -18,8 +18,8 @@ tags:
 external_link: " "
 links:
   - url: https://www.dropbox.com/sh/2u2dk4ywxwyg6i6/AAAn3SYbQAn9lm_gRKEgw4W8a?dl=0
-    name: An old proposal studying heterogeneous data in scientific publication and
-      its relationship with novelty
+    name: Different indicators in different stages of publication and their
+      relationship with novelty
 image:
   filename: ""
   focal_point: ""
