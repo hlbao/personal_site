@@ -18,7 +18,7 @@ links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S037843711730938X?via%3Dihub
     name: Physica A, 2018 on psychological lab experiments and simulation
   - url: https://www.overleaf.com/read/njkmbjpttfhg
-    name: A significantly extended journal version of ALife 2018 for multi-layered
+    name: A significantly extended journal version of ALife 2018 for multilayer
       networks
   - name: Poster and slides
     url: https://drive.google.com/drive/folders/1a3qKraepJPhmcP6X4T4nurX-B6d0ZLjP?usp=sharing
