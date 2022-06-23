@@ -1,6 +1,6 @@
 ---
 title: Archived Projects
-date: 2022-06-23T14:10:01.151Z
+date: 2022-06-21T14:10:01.151Z
 summary: Archived projects include my prior works on emergent collective
   coordination -- use agent-based models to study the evolution of cooperation
   and opinion dynamics.
