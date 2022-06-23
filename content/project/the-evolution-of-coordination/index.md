@@ -11,14 +11,14 @@ featured: false
 external_link: " "
 links:
   - url: https://direct.mit.edu/isal/proceedings/alife2018/30/436/99632
-    name: ALife, 2018 on evolutionary agent-based simulation with social learning
-      and collective voting
+    name: ALife (evolutionary agent-based simulation with social learning and
+      collective voting)
   - url: https://www.carsonhlbao.com/publication/cooperation/
-    name: A post giving a holistic view of the work
+    name: A post giving a holistic view
   - url: https://www.sciencedirect.com/science/article/abs/pii/S037843711730938X?via%3Dihub
-    name: Physica A, 2018 on psychological lab experiments and simulation
+    name: Physica A (psychological lab experiments and simulation)
   - url: https://www.overleaf.com/read/njkmbjpttfhg
-    name: A significantly extended journal version of ALife 2018 for multilayer
+    name: A significantly extended journal version of the ALife paper for multilayer
       networks
   - name: Poster and slides
     url: https://drive.google.com/drive/folders/1a3qKraepJPhmcP6X4T4nurX-B6d0ZLjP?usp=sharing
