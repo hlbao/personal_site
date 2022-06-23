@@ -1,6 +1,6 @@
 ---
 title: Rhetoric in Science (On-going)
-date: 2022-06-24T00:21:29.316Z
+date: 2022-06-23T12:21:00.000Z
 summary: "When you write papers, you will cite references because they inspire
   you, as [normative theory](https://en.wikipedia.org/wiki/Normative) states.
   You may have other references because they have rhetorical utilities, as
