@@ -1,6 +1,6 @@
 ---
 title: Social Inspiration in Computing (On-going)
-date: 2021-03-31T21:13:32.744Z
+date: 2022-06-22T21:13:32.744Z
 summary: I am working on a long survey paper that studies the inspiration from
   social sciences in the computing realm. How does the computing community get
   inspiration from social sciences, e.g., social choice theory, game theory,
