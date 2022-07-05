@@ -1,5 +1,5 @@
 ---
-title: Collective Emotion
+title: Group Emotion
 date: 2022-07-05T19:42:45.746Z
 summary: "One of my projects at HBS Amit's group: How is the crowd's emotion
   turned on? More TBA."
