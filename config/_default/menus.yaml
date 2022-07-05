@@ -19,7 +19,7 @@ main:
   - name: Data, Tutorials & Resources
     url: '#resource'
     weight: 50
-  - name: CV of Failures
+  - name: CV of Successes & Failures
     url: '#failures'
     weight: 60
   - name: Posts
