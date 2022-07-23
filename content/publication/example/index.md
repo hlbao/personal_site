@@ -47,4 +47,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-The link for the official publication is coming soon.
+The link for the official publication is [here](https://link.springer.com/article/10.1007/s40747-022-00810-w).
